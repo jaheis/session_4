@@ -1,0 +1,2846 @@
+ID,ORF,Metarow,Metacolomn,Sub-Grid Row,Sub-Grid Colomn,description
+1,slr0613,1,1,1,2,
+2,sll1214,1,1,1,3,phytochrome-regulated gene
+3,sll1212,1,1,1,4,GDP-D-mannose dehydratase
+4,sll1209,1,1,1,5,DNA ligase
+5,slr1318,1,1,1,6,iron(III) dicitrate transport system permease prot
+6,slr0257,1,1,1,7,carboxyl-terminal protease
+7,sll0216,1,1,1,8,hypothetical protein
+8,sll1326,1,1,1,9,ATP synthase a subunit
+9,sll1324,1,1,1,10,ATP synthase subunit b
+10,slr1413,1,1,1,11,
+11,slr1415,1,1,1,12,
+12,sll0938,1,1,1,13,aspartate transaminase
+13,sll0934,1,1,1,15,carboxysome formation protein
+14,sll0930,1,1,1,16,
+15,sll0926,1,1,1,17,hypothetical protein
+16,slr0974,1,1,1,18,initiation factor IF-3
+17,sll1291,1,1,1,19,regulatory components of sensory transduction syst
+18,sll1289,1,1,1,20,
+19,slr1393,1,1,1,22,sensory transduction histidine kinase
+20,slr1395,1,1,1,23,
+21,slr1398,1,1,1,24,
+22,slr1491,1,1,2,1,iron(III) dicitrate-binding periplasmic protein
+23,slr1494,1,1,2,2,ABC transporter
+24,sll1399,1,1,2,3,
+25,sll1396,1,1,2,4,
+26,sll1395,1,1,2,5,dTDP-6-deoxy-L-mannose-dehydrogenase
+27,sll1393,1,1,2,6,glycogen (starch) synthase
+28,slr1104,1,1,2,7,hypothetical protein
+29,sll1037,1,1,2,8,
+30,sll1035,1,1,2,9,uracil phosphoribosyltransferase
+31,slr1107,1,1,2,10,
+32,slr1109,1,1,2,11,erythroid ankyrin
+33,slr1772,1,1,2,12,
+34,slr1615,1,1,2,13,perosamine synthetase
+35,slr1617,1,1,2,14,
+36,slr1619,1,1,2,15,
+37,slr1064,1,1,2,16,mannosyltransferase B
+38,slr1066,1,1,2,17,
+39,slr1070,1,1,2,18,
+40,slr2009,1,1,2,19,NADH dehydrogenase subunit 5
+41,slr2012,1,1,2,20,
+42,sll1924,1,1,2,21,hypothetical protein
+43,slr2017,1,1,2,22,
+44,sll1921,1,1,2,23,
+45,slr2024,1,1,2,24,regulatory component of sensory transduction syste
+46,sll1053,1,1,3,1,hypothetical protein
+47,slr1124,1,1,3,2,phosphoglycerate mutase
+48,sll1051,1,1,3,3,phycocyanin alpha phycocyanobilin lyase CpcF
+49,slr1127,1,1,3,4,
+50,slr1129,1,1,3,5,ribonuclease E
+51,sll1043,1,1,3,6,polyribonucleotide nucleotidyltransferase
+52,sll1677,1,1,3,7,spore maturation protein B
+53,slr1787,1,1,3,8,hypothetical protein
+54,slr1789,1,1,3,9,
+55,sll1672,1,1,3,10,sensory transduction histidine kinase
+56,slr1791,1,1,3,11,3'-phosphoadenosine-5'-phosphosulfate sulfotransfe
+57,sll1669,1,1,3,12,shikimate kinase
+58,slr1090,1,1,3,13,GTP-binding protein
+59,sll1018,1,1,3,14,dihydroorotase
+60,slr1400,1,1,3,15,regulatory components of sensory transduction syst
+61,sll0654,1,1,3,16,alkaline phosphatase
+62,slr0677,1,1,3,17,biopolymer transport ExbB protein
+63,slr0679,1,1,3,18,fmu and fmv protein
+64,sll1082,1,1,3,19,nitrate transport protein NrtD
+65,sll1079,1,1,3,20,hydrogenase expression/formation protein HypB
+66,sll1076,1,1,3,21,cation-transporting P-ATPase
+67,slr1145,1,1,3,22,glutamate permease
+68,sll1072,1,1,3,23,
+69,sll1070,1,1,3,24,transketolase
+70,slr0741,1,1,4,1,a negative regulator of pho regulon
+71,slr0743,1,1,4,2,N utilization substance protein
+72,slr0237,1,1,4,3,glycogen operon protein GlgX
+73,slr0241,1,1,4,4,
+74,slr0244,1,1,4,5,
+75,sll0228,1,1,4,6,arginase
+76,slr1293,1,1,4,7,
+77,sll1198,1,1,4,8,tRNA(m1G37)methyltransferase
+78,slr1298,1,1,4,9,hypothetical protein
+79,slr1300,1,1,4,10,UbiH protein
+80,slr1302,1,1,4,11,
+81,sll1189,1,1,4,12,glycolate oxidase subunit  GlcE
+82,sll0639,1,1,4,13,
+83,slr0692,1,1,4,14,hypothetical protein
+84,sll0634,1,1,4,15,hypothetical protein
+85,slr1591,1,1,4,16,
+86,slr1593,1,1,4,17,hypothetical protein
+87,slr1596,1,1,4,18,hypothetical protein
+88,sll1119,1,1,4,19,
+89,slr1197,1,1,4,20,hypothetical protein
+90,slr1199,1,1,4,21,DNA mismatch repair protein MutL
+91,slr1201,1,1,4,22,
+92,slr1206,1,1,4,23,
+93,slr1212,1,1,4,24,ethylene response sensor protein
+94,slr1041,1,1,5,1,PatA protein
+95,slr1047,1,1,5,2,PleD gene product
+96,slr1048,1,1,5,3,
+97,slr1050,1,1,5,4,
+98,slr1052,1,1,5,5,
+99,sll1009,1,1,5,6,iron-regulated protein
+100,sll1723,1,1,5,7,hypothetical protein
+101,slr1837,1,1,5,8,regulatory components of sensory transduction syst
+102,sll1469,1,1,5,9,
+103,slr1536,1,1,5,10,ATP-dependent DNA helicase RecQ
+104,slr1538,1,1,5,11,CbiD protein
+105,slr1541,1,1,5,12,
+106,slr0876,1,1,5,13,
+107,slr0880,1,1,5,14,secreted protein MPB70 precursor
+108,slr0882,1,1,5,15,
+109,sll0869,1,1,5,17,Leu/Phe-tRNA-protein transferase
+110,sll0867,1,1,5,18,
+111,sll0842,1,1,5,19,neopullulanase
+112,slr0865,1,1,5,20,
+113,sll0838,1,1,5,21,orotidine 5' monophosphate decarboxylase
+114,slr0867,1,1,5,22,
+115,slr0869,1,1,5,23,
+116,sll1165,1,1,5,24,DNA mismatch repair protein
+117,slr1762,1,1,6,1,
+118,sll1641,1,1,6,2,glutamate decarboxylase
+119,sll1639,1,1,6,3,urease accessory protein D
+120,sll1635,1,1,6,4,
+121,slr1848,1,1,6,5,histidinol dehydrogenase
+122,sll1750,1,1,6,6,urease alpha subunit
+123,slr1552,1,1,6,7,
+124,sll1453,1,1,6,8,nitrate transport protein NrtD
+125,sll1634,1,1,6,9,
+126,sll1633,1,1,6,10,cell division FtsZ protein
+127,slr1751,1,1,6,11,carboxyl-terminal protease
+128,sll1144,1,1,6,12,hypothetical protein
+129,sll1306,1,1,6,13,
+130,sll1304,1,1,6,14,
+131,slr1865,1,1,6,15,
+132,slr1867,1,1,6,16,anthranilate phosphoribosyltransferase
+133,sll1775,1,1,6,17,
+134,slr1870,1,1,6,18,
+135,slr1255,1,1,6,19,phytoene synthase
+136,slr1258,1,1,6,20,
+137,slr1260,1,1,6,21,hypothetical protein
+138,slr1263,1,1,6,22,
+139,sll1958,1,1,6,23,histidinol phosphate aminotransferase
+140,slr2058,1,1,6,24,DNA topoisomerase I
+141,slr2045,1,1,7,1,hypothetical protein
+142,slr2047,1,1,7,2,phosphate starvation-inducible protein
+143,slr2049,1,1,7,3,hypothetical protein
+144,slr2053,1,1,7,4,
+145,sll1929,1,1,7,5,comE ORF3
+146,sll1835,1,1,7,6,
+147,slr1232,1,1,7,7,
+148,slr1235,1,1,7,8,
+149,slr1237,1,1,7,9,cytosine deaminase
+150,slr1238,1,1,7,10,glutathione synthetase
+151,slr1239,1,1,7,11,pyridine nucleotide transhydrogenase alpha subunit
+152,slr1434,1,1,7,12,pyridine nucleotide transhydrogenase beta subunit
+153,slr1880,1,1,7,13,
+154,slr1881,1,1,7,14,high-affinity branched-chain amino acid transport
+155,sll1757,1,1,7,15,
+156,slr1885,1,1,7,16,hypothetical protein
+157,slr1887,1,1,7,17,porphobilinogen deaminase
+158,sll1704,1,1,7,18,cell-cell signaling protein, C-factor
+159,slr2004,1,1,7,19,
+160,sll1612,1,1,7,20,folyl-polyglutamate synthetase
+161,sll1608,1,1,7,21,
+162,slr1718,1,1,7,22,
+163,slr1720,1,1,7,23,aspartyl-tRNA synthetase
+164,slr1722,1,1,7,24,IMP dehydrogenase subunit
+165,sll0995,1,1,8,1,
+166,sll0993,1,1,8,2,potassium channel
+167,sll0992,1,1,8,3,esterase
+168,slr1028,1,1,8,4,
+169,slr1031,1,1,8,5,tyrosyl tRNA synthetase
+170,slr1035,1,1,8,6,
+171,slr1448,1,1,8,7,fructokinase
+172,sll1350,1,1,8,8,
+173,sll1348,1,1,8,9,hypothetical protein
+174,sll1277,1,1,8,10,RecF protein
+175,sll1275,1,1,8,11,pyruvate kinase
+176,slr1364,1,1,8,12,biotin synthetase
+177,sll1624,1,1,8,13,hypothetical protein
+178,slr1736,1,1,8,14,
+179,sll1621,1,1,8,15,membrane protein
+180,sll1618,1,1,8,16,
+181,slr1744,1,1,8,17,N-acetylmuramoyl-L-alanine amidase
+182,slr1747,1,1,8,18,
+183,sll0252,1,1,8,19,
+184,slr0264,1,1,8,20,hypothetical protein
+185,sll0249,1,1,8,21,hypothetical protein
+186,slr0267,1,1,8,22,hypothetical protein
+187,slr0269,1,1,8,23,
+188,slr0272,1,1,8,24,
+189,slr2089,1,1,9,1,squalene-hopene-cyclase
+190,sll1980,1,1,9,2,thiol:disulfide interchange protein TrxA
+191,slr2100,1,1,9,3,regulatory components of sensory transduction syst
+192,slr2103,1,1,9,4,
+193,slr2105,1,1,9,6,
+194,slr1336,1,1,9,7,H+/Ca2+ exchanger
+195,slr1343,1,1,9,8,
+196,slr1349,1,1,9,9,glucose-6-phosphate isomerase
+197,slr1351,1,1,9,10,UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diamino
+198,slr1353,1,1,9,11,
+199,sll1242,1,1,9,12,
+200,slr1163,1,1,9,13,
+201,slr1165,1,1,9,14,sulfate adenylyltransferase
+202,sll1091,1,1,9,15,391 aa (43 kD) bacteriochlorophyll synthase subuni
+203,slr1171,1,1,9,16,glutathione peroxidase
+204,sll1087,1,1,9,17,sodium-coupled permease
+205,sll0260,1,1,9,19,hemolysin
+206,slr0292,1,1,9,20,
+207,slr0394,1,1,9,21,phosphoglycerate kinase
+208,sll0362,1,1,9,22,alanyl-tRNA synthetase
+209,slr0397,1,1,9,23,
+210,slr0400,1,1,9,24,hypothetical protein
+211,sll1418,1,1,10,1,
+212,sll1415,1,1,10,2,hypothetical protein
+213,slr1515,1,1,10,3,
+214,slr1518,1,1,10,4,menaquinone biosynthesis protein
+215,slr1520,1,1,10,5,
+216,sll2001,1,1,10,6,leucine aminopeptidase
+217,sll1890,1,1,10,7,CobN protein
+218,slr1970,1,1,10,8,
+219,sll1888,1,1,10,9,sensory transduction histidine kinase
+220,sll1886,1,1,10,10,
+221,sll1874,1,1,10,11,phytochrome-regulated gene
+222,sll1870,1,1,10,12,ABC transporter
+223,slr1687,1,1,10,13,
+224,sll1557,1,1,10,14,succinyl-CoA synthetase
+225,sll1555,1,1,10,15,regulatory components of sensory transduction syst
+226,slr1690,1,1,10,16,hypothetical protein
+227,slr1692,1,1,10,17,hypothetical protein
+228,slr0936,1,1,10,18,nicotinate-nucleotide pyrophosphorylase
+229,slr0148,1,1,10,19,
+230,slr0152,1,1,10,20,serine/threonine protein kinase
+231,sll0148,1,1,10,21,
+232,sll0146,1,1,10,22,high-affinity branched-chain amino acid transport
+233,sll0144,1,1,10,23,uridine monophosphate kinase
+234,sll0142,1,1,10,24,cation efflux system protein CzcA
+235,sll1995,1,1,11,1,
+236,slr2130,1,1,11,2,3-dehydroquinate synthase
+237,sll1241,1,1,11,3,
+238,sll1237,1,1,11,4,protoporphyrinogen oxidase
+239,slr1325,1,1,11,5,(p)ppGpp 3'-pyrophosphohydrolase
+240,sll1233,1,1,11,6,
+241,sll1380,1,1,11,7,
+242,sll1377,1,1,11,8,
+243,sll1374,1,1,11,9,melibiose carrier protein
+244,sll1372,1,1,11,10,
+245,sll1370,1,1,11,11,GDP-mannose pyrophosphorylase
+246,sll1180,1,1,11,12,HlyB family
+247,slr0949,1,1,11,13,high-affinity branched-chain amino acid transport
+248,sll0910,1,1,11,14,hypothetical protein
+249,slr0951,1,1,11,15,hypothetical protein
+250,slr0953,1,1,11,16,
+251,slr0958,1,1,11,17,cysteinyl-tRNA synthetase
+252,slr0959,1,1,11,18,
+253,slr1931,1,1,11,19,
+254,slr1933,1,1,11,20,dTDP-4-dehydrorhamnose 3,5-epimerase
+255,slr0990,1,1,11,21,
+256,slr0994,1,1,11,22,LipB protein
+257,slr0320,1,1,11,23,
+258,slr0322,1,1,11,24,chemotaxis protein CheA
+259,sll1217,1,1,12,1,
+260,slr0806,1,1,12,2,
+261,slr0808,1,1,12,3,
+262,sll0818,1,1,12,4,hypothetical protein
+263,sll0816,1,1,12,5,hypothetical protein
+264,sll0814,1,1,12,6,
+265,sll1169,1,1,12,7,
+266,slr1287,1,1,12,8,hypothetical protein
+267,sll1166,1,1,12,9,hypothetical protein
+268,sll1444,1,1,12,10,3-isopropylmalate dehydratase
+269,slr1529,1,1,12,11,nitrogen assimilation regulatory protein
+270,sll1440,1,1,12,12,pyridoxamine 5'-phosphate oxidase
+271,sll1527,1,1,12,13,
+272,slr1641,1,1,12,14,ClpB protein
+273,sll0427,1,1,12,15,photosystem II manganese-stabilizing polypeptide
+274,sll0424,1,1,12,16,
+275,sll0421,1,1,12,17,adenylosuccinate lyase
+276,sll0418,1,1,12,18,sterol-C-methyltransferase
+277,slr0168,1,1,12,19,
+278,slr0171,1,1,12,20,ycf37 gene product
+279,sll0174,1,1,12,21,
+280,sll0171,1,1,12,22,aminomethyltransferase
+281,sll0163,1,1,12,23,beta transducin-like protein
+282,slr0179,1,1,12,24,
+283,slr0366,1,1,13,1,
+284,slr0370,1,1,13,2,succinate-semialdehyde dehydrogenase (NADP+)
+285,sll0336,1,1,13,3,acetyl-CoA carboxylase beta subunit
+286,slr0374,1,1,13,4,cell division cycle protein
+287,slr0380,1,1,13,5,
+288,slr0383,1,1,13,6,
+289,sll0402,1,1,13,7,aspartate aminotransferase
+290,slr0050,1,1,13,8,hypothetical protein
+291,sll0071,1,1,13,9,
+292,sll0067,1,1,13,10,glutathione S-transferase
+293,slr0056,1,1,13,11,chlorophyll synthase 33 kD subunit
+294,sll0063,1,1,13,12,
+295,sll0185,1,1,13,13,
+296,slr0201,1,1,13,14,heterodisulfide reductase subunit B
+297,sll0182,1,1,13,15,ABC transporter
+298,sll0180,1,1,13,16,
+299,slr0208,1,1,13,17,
+300,slr0211,1,1,13,18,
+301,sll0482,1,1,13,19,hypothetical protein
+302,slr0509,1,1,13,20,alkaline phosphatase like protein
+303,sll0477,1,1,13,21,
+304,slr0514,1,1,13,22,
+305,sll0473,1,1,13,23,
+306,slr0521,1,1,13,24,
+307,sll0765,1,1,14,1,hypothetical protein
+308,sll0760,1,1,14,2,ycf38 gene product
+309,slr0779,1,1,14,3,
+310,sll0755,1,1,14,4,thiol-specific antioxidant protein
+311,sll0752,1,1,14,5,
+312,slr0782,1,1,14,6,hypothetical protein
+313,slr0468,1,1,14,7,
+314,sll0461,1,1,14,8,gamma-glutamyl phosphate reductase
+315,sll0459,1,1,14,9,excinuclease ABC subunit B
+316,slr0480,1,1,14,10,hypothetical protein
+317,slr0484,1,1,14,11,sensory transduction histidine kinase
+318,sll0456,1,1,14,12,
+319,slr0918,1,1,14,13,methionine aminopeptidase
+320,slr0922,1,1,14,14,peptidyl-tRNA hydrolase
+321,sll0556,1,1,14,15,
+322,sll0552,1,1,14,16,
+323,sll0550,1,1,14,17,flavoprotein
+324,slr0569,1,1,14,18,
+325,sll0590,1,1,14,19,
+326,slr0619,1,1,14,20,
+327,sll0586,1,1,14,21,hypothetical protein
+328,slr0624,1,1,14,22,hypothetical protein
+329,slr0626,1,1,14,23,hypothetical protein
+330,sll0107,1,1,14,24,4-hydroxy-2-oxoglutarate aldolase
+331,slr0358,1,1,15,1,
+332,sll0309,1,1,15,2,
+333,sll0023,1,1,15,3,hypothetical protein
+334,sll0021,1,1,15,4,
+335,sll0019,1,1,15,5,hypothetical protein
+336,slr0006,1,1,15,6,
+337,slr0719,1,1,15,7,hypothetical protein
+338,slr0630,1,1,15,8,
+339,sll0615,1,1,15,9,transmembrane protein FT27
+340,slr0634,1,1,15,10,
+341,slr0636,1,1,15,11,hypothetical protein
+342,slr0638,1,1,15,12,glycyl-tRNA synthetase alpha chain
+343,sll0834,1,1,15,13,low affinity sulfate transporter
+344,slr0833,1,1,15,14,replicative DNA helicase
+345,slr0836,1,1,15,15,dTDP-glucose 4,6-dehydratase
+346,slr0838,1,1,15,16,phosphoribosyl formylglycinamidine cyclo-ligase
+347,slr0839,1,1,15,17,ferrochelatase
+348,sll0827,1,1,15,18,
+349,slr0111,1,1,15,19,
+350,slr0114,1,1,15,20,
+351,slr0116,1,1,15,21,
+352,slr0121,1,1,15,22,
+353,sll0289,1,1,15,23,septum site-determining protein MinD
+354,slr0299,1,1,15,24,
+355,slr0214,1,1,16,1,cytosine-specific methyltransferase
+356,slr0216,1,1,16,2,cobinamide kinase / cobinamide phosphate guanylylt
+357,slr0222,1,1,16,3,sensory transduction histidine kinase
+358,slr0224,1,1,16,4,
+359,sll0198,1,1,16,5,
+360,sll0195,1,1,16,6,
+361,sll0396,1,1,16,7,regulatory components of sensory transduction syst
+362,slr0417,1,1,16,8,DNA gyrase A subunit
+363,sll0385,1,1,16,9,ABC transporter
+364,sll0383,1,1,16,10,CbiM protein
+365,sll0381,1,1,16,11,
+366,sll0379,1,1,16,12,acyl-[acyl-carrier-protein]--UDP-N-acetylglucosami
+367,slr0077,1,1,16,13,NifS protein
+368,sll0085,1,1,16,14,
+369,slr0079,1,1,16,15,general secretion pathway protein E
+370,slr0082,1,1,16,16,hypothetical protein
+371,slr0084,1,1,16,17,N-acetyl-glutamate-gamma-semialdehyde dehydrogenas
+372,slr0088,1,1,16,18,phytoene dehydrogenase
+373,slr0311,1,1,16,19,sensory transduction histidine kinase
+374,slr0313,1,1,16,20,
+375,slr0315,1,1,16,21,hypothetical protein
+376,slr0317,1,1,16,22,hypothetical protein
+377,slr0319,1,1,16,23,beta-lactamase
+378,slr0787,1,1,16,24,
+379,sll0786,1,1,17,1,
+380,sll0784,1,1,17,2,nitrilase
+381,sll0782,1,1,17,3,putative protein kinase
+382,sll0778,1,1,17,4,ABC transporter
+383,sll0776,1,1,17,5,eukaryotic protein  kinase
+384,slr0700,1,1,17,6,
+385,slr0556,1,1,17,7,hypothetical protein
+386,slr0557,1,1,17,8,valyl-tRNA synthetase
+387,sll0520,1,1,17,9,NADH dehydrogenase subunit NdhI
+388,slr1418,1,1,17,10,dihydroorotate dehydrogenase
+389,sll1344,1,1,17,11,
+390,sll1342,1,1,17,12,glyceraldehyde-3-phosphate dehydrogenase (NADP+) (
+391,slr0756,1,1,17,13,
+392,sll0723,1,1,17,14,
+393,sll0721,1,1,17,15,leukotoxin (LtA)
+394,sll1545,1,1,17,16,glutathione S-transferase
+395,slr1665,1,1,17,17,diaminopimelate epimerase
+396,sll1544,1,1,17,18,regulatory components of sensory transduction syst
+397,ssl3364,1,1,17,19,hypothetical protein
+398,ssl3291,1,1,17,20,
+399,ssl3127,1,1,17,21,
+400,ssl0461,1,1,17,22,
+401,ssl0452,1,1,17,23,phycobilisome degradation protein NblA
+402,ssr3532,1,1,17,24,
+403,sll0744,1,1,18,1,
+404,sll0740,1,1,18,2,
+405,sll0738,1,1,18,3,molybdate-binding periplasmic protein
+406,sll0045,1,1,18,4,sucrose phosphate synthase
+407,sll0043,1,1,18,5,chemotaxis protein CheA
+408,sll0040,1,1,18,6,
+409,slr1454,1,1,18,7,sulfate transport system permease protein
+410,slr1456,1,1,18,8,general secretion pathway protein G
+411,slr1459,1,1,18,9,phycobilisome core component
+412,slr1461,1,1,18,10,hypothetical protein
+413,slr1462,1,1,18,11,
+414,slr1464,1,1,18,12,
+415,slr0452,1,1,18,13,dihydroxyacid dehydratase
+416,slr0454,1,1,18,14,acriflavine resistance protein
+417,slr0459,1,1,18,15,
+418,slr1177,1,1,18,16,
+419,sll1110,1,1,18,17,peptide chain release factor
+420,sll1108,1,1,18,18,hypothetical protein
+421,ssl3580,1,1,18,19,hydrogenase expression/formation protein HypC
+422,ssl3549,1,1,18,20,
+423,smr0011,1,1,18,21,50S ribosomal protein L34
+424,ssr2806,1,1,18,22,
+425,ssr1600,1,1,18,23,
+426,ssl0242,1,1,18,24,
+427,slr0044,1,1,19,1,nitrate transport protein NrtD
+428,sll0026,1,1,19,2,NADH dehydrogenase subunit 5
+429,slr0525,1,1,19,3,Mg-protoporphyrin IX methyl transferase
+430,sll0514,1,1,19,4,
+431,slr0530,1,1,19,5,membrane bound sugar transport protein
+432,sll0513,1,1,19,6,
+433,sll0621,1,1,19,7,thiol:disulfide interchange protein DsbD
+434,sll1499,1,1,19,8,ferredoxin-dependent glutamate synthase
+435,sll1498,1,1,19,9,carbamoyl-phosphate synthetase subunit A
+436,sll1496,1,1,19,10,mannose-1-phosphate guanyltransferase
+437,slr1559,1,1,19,11,shikimate 5-dehydrogenase
+438,slr1566,1,1,19,12,
+439,ssl0410,1,1,19,13,
+440,sml0004,1,1,19,14,hypothetical protein
+441,ssr2998,1,1,19,15,hypothetical protein
+442,ssr2142,1,1,19,16,hypothetical protein
+443,ssr1765,1,1,19,17,hypothetical protein
+444,ssl1972,1,1,19,18,
+445,sll1577,1,1,19,19,phycocyanin b subunit
+446,ssr0332,1,1,19,20,
+447,slr2051,1,1,19,21,phycobilisome rod-core linker polypeptide CpcG
+448,sll0819,1,1,19,22,photosystem I subunit III
+449,ssl1552,1,1,19,23,
+450,ssr1038,1,1,19,24,
+451,sll0501,1,1,20,1,
+452,slr0542,1,1,20,2,ATP-dependent protease ClpP
+453,sll0499,1,1,20,3,
+454,sll0497,1,1,20,4,
+455,sll0496,1,1,20,5,
+456,sll0494,1,1,20,6,
+457,sll1482,1,1,20,7,
+458,sll1479,1,1,20,8,glucose-6-P-dehydrogenase
+459,sll1475,1,1,20,9,sensory transduction histidine kinase
+460,sll1471,1,1,20,10,phycobilisome rod-core linker polypeptide CpcG
+461,sll1470,1,1,20,11,3-isopropylmalate dehydratase
+462,slr0747,1,1,20,12,ATP binding protein responsible for multiple sugar
+463,ssr2843,1,1,20,13,
+464,ssl3451,1,1,20,14,
+465,ssr2009,1,1,20,15,
+466,ssr2595,1,1,20,16,high light inducible protein
+467,ssr2611,1,1,20,17,
+468,ssr2047,1,1,20,18,
+469,sll1405,1,1,20,20,
+470,sll1400,1,1,20,21,
+471,slr1116,1,1,20,22,
+472,sll1061,1,1,20,23,
+473,sll1052,1,1,20,24,
+474,slr1097,1,1,21,1,
+475,slr1101,1,1,21,2,
+476,sll1030,1,1,21,3,carbon dioxide concentrating mechanism protein Ccm
+477,sll1675,1,1,21,4,
+478,sll1194,1,1,21,5,photosystem II 12 kD extrinsic protein
+479,sll1191,1,1,21,6,
+480,slr1902,1,1,21,7,
+481,ssl2233,1,1,21,8,30S ribosomal protein S20
+482,sll1118,1,1,21,9,hypothetical protein
+483,sll1112,1,1,21,10,carbonic 3-dehydroquinase
+484,sll1737,1,1,21,11,hypothetical protein
+485,sll1736,1,1,21,12,
+486,sll1381,1,1,21,13,
+487,slr1273,1,1,21,14,
+488,sll1447,1,1,21,15,
+489,sll1439,1,1,21,16,
+490,ssl2148,1,1,21,17,
+491,slr1170,1,1,21,18,
+492,slr0435,1,1,21,19,biotin carboxyl carrier protein of acetyl-CoA carb
+493,sll0400,1,1,21,20,
+494,sll0062,1,1,21,21,
+495,sll0051,1,1,21,22,hypothetical protein
+496,slr0476,1,1,21,23,
+497,slr0489,1,1,21,24,
+498,slr1082,1,1,22,1,
+499,slr0680,1,1,22,2,
+500,slr0695,1,1,22,3,
+501,sll1512,1,1,22,4,hypothetical protein
+502,slr1600,1,1,22,5,
+503,sll1507,1,1,22,6,
+504,slr1437,1,1,22,7,
+505,slr1450,1,1,22,8,
+506,sll1281,1,1,22,9,ycf9 gene product
+507,sll1274,1,1,22,10,
+508,slr0875,1,1,22,11,large-conductance mechanosensitive channel
+509,slr0881,1,1,22,12,
+510,slr0957,1,1,22,13,
+511,ssr2723,1,1,22,14,
+512,slr1626,1,1,22,15,hypothetical protein
+513,slr1634,1,1,22,16,
+514,slr1639,1,1,22,17,small protein
+515,sll0423,1,1,22,18,
+516,slr0196,1,1,22,19,
+517,slr0204,1,1,22,20,
+518,slr0915,1,1,22,21,putative endonuclease
+519,slr0920,1,1,22,22,
+520,slr0921,1,1,22,23,
+521,sll0554,1,1,22,24,ferredoxin-thioredoxin reductase, catalytic chain
+522,sll1751,1,1,23,1,
+523,slr1851,1,1,23,2,hypothetical protein
+524,sll1940,1,1,23,3,
+525,sll1934,1,1,23,4,
+526,sll1837,1,1,23,5,
+527,slr1913,1,1,23,6,
+528,slr1886,1,1,23,7,putative iojap protein
+529,sll1698,1,1,23,8,
+530,slr1812,1,1,23,9,hypothetical protein
+531,sll1695,1,1,23,10,general secretion pathway protein G
+532,slr1738,1,1,23,11,
+533,slr0852,1,1,23,12,
+534,slr0398,1,1,23,13,
+535,sll0354,1,1,23,14,
+536,slr0149,1,1,23,15,
+537,slr0157,1,1,23,16,
+538,sll1863,1,1,23,17,
+539,slr0992,1,1,23,18,hypothetical protein
+540,sll0481,1,1,23,19,
+541,sll0478,1,1,23,20,
+542,slr0518,1,1,23,21,arabinofuranosidase
+543,sll0470,1,1,23,22,
+544,slr0623,1,1,23,23,thioredoxin
+545,sll0109,1,1,23,24,chorismate mutase
+546,slr1383,1,1,24,1,
+547,sll1292,1,1,24,2,regulatory components of sensory transduction syst
+548,slr1394,1,1,24,3,
+549,sll1926,1,1,24,4,
+550,slr2008,1,1,24,5,
+551,ssr3409,1,1,24,6,
+552,sll1426,1,1,24,7,
+553,slr2128,1,1,24,8,hypothetical protein
+554,slr1327,1,1,24,9,
+555,sll0812,1,1,24,10,
+556,sll0808,1,1,24,11,transposase
+557,sll0803,1,1,24,12,hypothetical protein
+558,slr0381,1,1,24,13,hypothetical protein
+559,sll0327,1,1,24,14,
+560,slr0771,1,1,24,15,
+561,sll0763,1,1,24,16,
+562,slr0780,1,1,24,17,hypothetical protein
+563,slr0343,1,1,24,18,cytochrome b6-f complex subunit 4
+564,sll0678,1,1,24,19,
+565,sll0668,1,1,24,20,
+566,slr0711,1,1,24,21,
+567,sll0661,1,1,24,22,ycf35 gene product
+568,sll0047,1,1,24,23,
+569,sll0044,1,1,24,24,
+570,slr0668,1,1,25,1,
+571,slr1568,1,1,25,2,
+572,slr1583,1,1,25,3,
+573,sll1547,1,1,25,4,hypothetical protein
+574,sll0451,1,1,25,5,hypothetical protein
+575,sll0442,1,1,25,6,
+576,sll0887,1,1,25,7,
+577,slr0895,1,1,25,8,
+578,slr0897,1,1,25,9,endo-1,4-beta-glucanase
+579,sll0493,1,1,25,10,hypothetical protein
+580,slr0926,1,1,25,11,4-hydroxybenzoate-octaprenyl transferase
+581,slr0929,1,1,25,12,
+582,slr0348,1,1,25,13,hypothetical protein
+583,slr0662,1,1,25,14,arginine decarboxylase
+584,slr1661,1,1,25,15,
+585,sll1027,1,1,25,16,NADH-glutamate synthase small subunit
+586,sll1614,1,1,25,17,H(+)-transporting ATPase
+587,slr0220,1,1,25,18,glycyl-tRNA synthetase beta chain
+588,slr0356,1,1,25,19,
+589,slr1636,1,1,25,20,
+590,slr2041,1,1,25,21,cell division response regulator DivK
+591,slr1730,1,1,25,22,potassium-transporting ATPase C chain
+592,slr1251,1,1,25,23,peptidyl-prolyl cis-trans isomerase
+593,slr0853,1,1,25,24,ribosomal-protein-alanine acetyltransferase
+594,sll0575,1,1,26,2,ATP-binding protein
+595,slr0591,1,1,26,3,
+596,sll0572,1,1,26,4,
+597,sll0569,1,1,26,5,RecA gene product
+598,slr0596,1,1,26,6,
+599,slr1658,1,1,26,7,
+600,slr1192,1,1,26,8,zinc-containing alcohol dehydrogenase family
+601,ssl0426,1,1,26,9,transposase
+602,slr0250,1,1,26,10,
+603,sll1654,1,1,26,11,
+604,sll1574,1,1,26,12,
+605,sll0068,1,1,26,13,
+606,slr0377,1,1,26,15,
+607,sll0175,1,1,26,16,putative;  ORF1
+608,slr1316,1,1,26,17,iron(III) dicitrate transport system permease prot
+609,sll1516,1,1,26,18,
+610,sll0253,1,1,26,19,
+611,slr2097,1,1,26,20,cyanoglobin
+612,sll1609,1,1,26,21,
+613,slr1209,1,1,26,22,
+614,slr1732,1,1,26,23,
+615,sll1029,1,1,26,24,carbon dioxide concentrating mechanism protein Ccm
+616,slr2095,1,1,27,1,
+617,sll0010,1,1,27,2,
+618,slr1311,1,1,27,3,photosystem II D1 protein
+619,sll0223,1,1,27,4,NADH dehydrogenase subunit 2
+620,slr1799,1,1,27,5,
+621,sll1656,1,1,27,6,
+622,sll1715,1,1,27,7,
+623,sll1783,1,1,27,8,
+624,slr1853,1,1,27,9,
+625,slr1856,1,1,27,10,
+626,sll2007,1,1,27,11,
+627,ssl3829,1,1,27,12,
+628,sll0555,1,1,27,13,methionine aminopeptidase
+629,sll1871,1,1,27,14,sensory transduction histidine kinase
+630,slr1385,1,1,27,15,
+631,slr0739,1,1,27,16,geranylgeranyl pyrophosphate synthase
+632,sll1933,1,1,27,17,DnaJ protein
+633,ssr0759,1,1,27,19,
+634,ssl2982,1,1,27,20,hypothetical protein
+635,ssl2162,1,1,27,21,
+636,ssr1736,1,1,27,22,50S ribosomal protein L32
+637,sll0069,1,1,27,23,
+638,sll0325,1,1,27,24,
+639,sll1570,1,1,28,1,
+640,sll1568,1,1,28,2,fibrillin
+641,sll1820,1,1,28,3,pseudouridine synthase 1
+642,sll1814,1,1,28,4,preprotein translocase SecY subunit
+643,sll1802,1,1,28,5,50S ribosomal protein L2
+644,slr1895,1,1,28,6,
+645,sll1852,1,1,28,7,nucleoside diphosphate kinase
+646,ssr3300,1,1,28,8,
+647,ssr3304,1,1,28,9,
+648,slr1951,1,1,28,10,
+649,ssr1513,1,1,28,11,hypothetical protein
+650,slr0925,1,1,28,12,single-stranded DNA-binding protein
+651,sll1893,1,1,28,13,cyclase
+652,slr1564,1,1,28,14,RNA polymerase sigma-37
+653,slr1122,1,1,28,15,
+654,sll1716,1,1,28,16,transposase
+655,slr1271,1,1,28,17,UDP-N-acetyl-D-mannosaminuronic acid transferase
+656,sll1203,1,1,28,18,
+657,slr0164,1,1,28,19,ATP-dependent Clp protease proteolytic subunit
+658,slr0342,1,1,28,20,cytochrome b6
+659,slr0384,1,1,28,21,
+660,slr0633,1,1,28,22,ThiG protein
+661,slr0723,1,1,28,23,
+662,slr0812,1,1,28,24,
+663,slr1835,1,1,29,1,P700 apoprotein subunit Ib
+664,slr1841,1,1,29,2,
+665,slr1843,1,1,29,3,glucose 6-phosphate dehydrogenase
+666,sll1713,1,1,29,4,histidinol-phosphate aminotransferase
+667,sll1784,1,1,29,5,
+668,slr1857,1,1,29,6,glycogen operon protein GlgX
+669,sll1932,1,1,29,19,DnaK protein
+670,slr1805,1,1,29,20,sensory transduction histidine kinase
+671,sll1905,1,1,29,21,sensory transduction histidine kinase
+672,sll1590,1,1,29,22,sensory transduction histidine kinase
+673,slr0940,1,1,29,23,zeta-carotene desaturase precursor
+674,sll0262,1,1,29,24,delta-6 desaturase
+675,slr2136,1,1,30,1,GcpE protein
+676,sll2005,1,1,30,2,DNA gyrase B subunit
+677,sll2003,1,1,30,3,
+678,slr2144,1,1,30,4,
+679,slr1818,1,1,30,5,
+680,sll1689,1,1,30,6,RNA polymerase sigma factor
+681,sll1514,1,1,30,19,spore protein sp21
+682,slr0193,1,1,30,20,RNA-binding protein
+683,sll0921,1,1,30,21,regulatory components of sensory transduction syst
+684,sll1031,1,1,30,22,carbon dioxide concentrating mechanism protein Ccm
+685,slr1768,1,1,30,23,
+686,sll1352,1,1,30,24,
+687,sll1884,1,1,31,1,
+688,sll1882,1,1,31,2,hypothetical protein
+689,sll1879,1,1,31,3,
+690,slr1977,1,1,31,4,
+691,slr1979,1,1,31,5,anthranilate synthase component I
+692,sll1876,1,1,31,6,oxygen independent coprophorphyrinogen III oxidase
+693,ssl1792,1,1,31,19,
+694,slr1764,1,1,31,20,cAMP binding protein
+695,slr1139,1,1,31,21,thioredoxin
+696,sll1631,1,1,31,22,hypothetical protein
+697,slr1992,1,1,31,23,glutathione peroxidase
+698,ssr3402,1,1,31,24,
+699,sll1520,1,1,32,1,DNA repair protein RecN
+700,slr1934,1,1,32,2,pyruvate dehydrogenase E1 component, alpha subunit
+701,sll1854,1,1,32,3,exodeoxyribonuclease III
+702,slr1938,1,1,32,4,hypothetical protein
+703,slr1939,1,1,32,5,
+704,slr1942,1,1,32,6,
+705,sll0733,1,1,32,19,
+706,slr0738,1,1,32,20,anthranilate synthetase alpha-subunit
+707,slr1706,1,1,32,21,dihydroflavonol 4-reductase
+708,slr1844,1,1,32,22,excinuclease ABC subunit A
+709,ssr1789,1,1,32,23,high light inducible protein
+710,sll1578,1,1,32,24,phycocyanin a subunit
+711,slr0612,1,2,1,1,hypothetical protein
+712,sll0558,1,2,1,2,hypothetical protein
+713,sll1213,1,2,1,3,hypothetical protein
+714,slr1312,1,2,1,4,arginine decarboxylase
+715,slr1317,1,2,1,5,iron(III) dicitrate transport system permease prot
+716,slr1319,1,2,1,6,iron(III) dicitrate transport system permease prot
+717,sll1327,1,2,1,8,ATP synthase g subunit
+718,sll1325,1,2,1,9,ATP synthase d subunit
+719,sll1322,1,2,1,10,ATP synthase subunit a
+720,slr1414,1,2,1,11,sensory transduction histidine kinase
+721,slr1416,1,2,1,12,MorR protein
+722,slr0969,1,2,1,13,precorrin methylase
+723,slr0971,1,2,1,14,
+724,sll0932,1,2,1,15,
+725,sll0927,1,2,1,16,S-adenosylmethionine synthetase
+726,sll0925,1,2,1,17,
+727,slr0975,1,2,1,18,
+728,sll1290,1,2,1,19,ribonuclease II
+729,slr1390,1,2,1,20,cell division protein FtsH
+730,slr1392,1,2,1,21,ferrous iron transport protein B
+731,sll1286,1,2,1,22,
+732,slr1397,1,2,1,23,
+733,sll1285,1,2,1,24,
+734,slr1492,1,2,2,1,iron(III) dicitrate-binding periplasmic protein
+735,sll1401,1,2,2,2,
+736,sll1397,1,2,2,3,transposase
+737,slr1498,1,2,2,4,hydrogenase isoenzymes formation protein HypD
+738,sll1394,1,2,2,5,peptide methionine sulfoxide reductase
+739,sll1392,1,2,2,6,hypothetical protein
+740,slr1105,1,2,2,7,elongation factor EF-G
+741,sll1036,1,2,2,8,
+742,slr1106,1,2,2,9,prohibitin
+743,sll1032,1,2,2,10,hypothetical protein
+744,slr1110,1,2,2,11,
+745,sll1686,1,2,2,12,
+746,slr1616,1,2,2,13,
+747,slr1618,1,2,2,14,
+748,slr1063,1,2,2,15,hypothetical protein
+749,slr1065,1,2,2,16,
+750,slr1067,1,2,2,17,UDP-glucose 4-epimerase
+751,slr1071,1,2,2,18,
+752,slr2011,1,2,2,19,
+753,slr2013,1,2,2,20,
+754,slr2015,1,2,2,21,
+755,slr2019,1,2,2,22,ABC transporter
+756,slr2023,1,2,2,23,malonyl coenzyme A-acyl carrier protein transacyla
+757,sll1917,1,2,2,24,oxygen independent coprophorphyrinogen III oxidase
+758,slr1123,1,2,3,1,guanylate kinase
+759,slr1125,1,2,3,2,zeaxanthin glucosyl transferase
+760,sll1049,1,2,3,3,
+761,slr1128,1,2,3,4,erthyrocyte band 7 integral membrane protein, prot
+762,slr1130,1,2,3,5,ribonuclease HII
+763,sll0716,1,2,3,6,leader peptidase I
+764,sll1676,1,2,3,7,4-alpha-glucanotransferase
+765,slr1788,1,2,3,8,
+766,sll1673,1,2,3,9,regulatory components of sensory transduction syst
+767,slr1790,1,2,3,10,hypothetical protein
+768,sll1670,1,2,3,11,hypothetical protein
+769,slr1793,1,2,3,12,transaldolase
+770,sll1019,1,2,3,13,glyoxalase II
+771,sll1017,1,2,3,14,ammonium transporter
+772,slr0670,1,2,3,15,
+773,slr0676,1,2,3,16,adenylylsulfate 3'-phosphotransferase
+774,slr0678,1,2,3,17,
+775,slr0681,1,2,3,18,hypothetical protein
+776,sll1081,1,2,3,19,integral membrane components of other binding-prot
+777,slr1143,1,2,3,20,hypothetical protein
+778,sll1074,1,2,3,21,leucyl-tRNA synthetase
+779,slr1147,1,2,3,22,sensory transduction histidine kinase
+780,sll1071,1,2,3,23,
+781,sll1825,1,2,3,24,
+782,slr0742,1,2,4,1,
+783,slr0744,1,2,4,2,initiation factor IF-2
+784,slr0239,1,2,4,3,precorrin methylase
+785,slr0243,1,2,4,4,
+786,slr0245,1,2,4,5,acetylpolyamine aminohydolase
+787,sll0227,1,2,4,6,peptidyl-prolyl cis-trans isomerase B
+788,slr1295,1,2,4,7,iron transport protein
+789,sll1196,1,2,4,8,phosphofructokinase
+790,slr1299,1,2,4,9,UDP-glucose dehydrogenase
+791,slr1301,1,2,4,10,
+792,slr1303,1,2,4,11,
+793,slr1305,1,2,4,12,nitrogen fixation positive activator protein
+794,sll0638,1,2,4,13,
+795,sll0635,1,2,4,14,thiamin biosynthetic bifunctional enzyme
+796,slr1590,1,2,4,15,
+797,slr1592,1,2,4,16,hypothetical protein
+798,slr1594,1,2,4,17,PatA protein
+799,slr1597,1,2,4,18,hypothetical protein
+800,slr1194,1,2,4,19,hypothetical protein
+801,slr1198,1,2,4,20,rehydrin
+802,slr1200,1,2,4,21,high-affinity branched-chain amino acid transport
+803,slr1202,1,2,4,22,lactose transport system permease protein LacF
+804,slr1211,1,2,4,23,CobN protein
+805,slr1213,1,2,4,24,LumQ gene product
+806,slr1044,1,2,5,1,methyl-accepting chemotaxis protein
+807,sll1011,1,2,5,3,hypothetical protein
+808,slr1051,1,2,5,4,enoyl-[acyl-carrier-protein] reductase
+809,slr1053,1,2,5,5,
+810,slr1055,1,2,5,6,Mg-chelatase subunit
+811,sll1722,1,2,5,7,
+812,sll1721,1,2,5,8,pyruvate dehydrogenase E1 beta subunit
+813,slr1537,1,2,5,10,
+814,slr1540,1,2,5,11,
+815,slr1543,1,2,5,12,DNA-damage-inducible protein
+816,slr0878,1,2,5,13,hypothetical protein
+817,sll0873,1,2,5,14,carboxynorspermidine decarboxylase
+818,slr0883,1,2,5,15,regulation of penicillin binding protein 5 product
+819,slr0884,1,2,5,16,glyceraldehyde 3-phosphate dehydrogenase
+820,sll0868,1,2,5,17,lipoic acid synthetase
+821,slr0886,1,2,5,18,3-oxoacyl-[acyl-carrier protein] reductase
+822,slr0864,1,2,5,19,ABC transporter
+823,sll0839,1,2,5,20,
+824,sll0837,1,2,5,21,
+825,slr0872,1,2,5,23,
+826,slr1243,1,2,5,24,
+827,slr1763,1,2,6,1,hypothetical protein
+828,sll1640,1,2,6,2,hypothetical protein
+829,sll1636,1,2,6,3,ferripyochelin binding protein
+830,sll1752,1,2,6,4,
+831,slr1849,1,2,6,5,mercuric reductase
+832,sll1946,1,2,6,6,
+833,sll1454,1,2,6,7,nitrate reductase
+834,sll1450,1,2,6,8,nitrate transport 45kD protein
+835,slr1748,1,2,6,9,hypothetical protein
+836,sll1632,1,2,6,10,
+837,slr1752,1,2,6,11,
+838,slr1220,1,2,6,12,
+839,sll1305,1,2,6,13,
+840,slr1863,1,2,6,14,
+841,slr1866,1,2,6,15,
+842,sll1776,1,2,6,16,deoxyribose-phosphate aldolase
+843,slr1869,1,2,6,17,
+844,sll1773,1,2,6,18,hypothetical protein
+845,slr1257,1,2,6,19,
+846,slr1259,1,2,6,20,hypothetical protein
+847,slr1262,1,2,6,21,
+848,sll1961,1,2,6,22,
+849,slr2057,1,2,6,23,water channel protein
+850,slr2062,1,2,6,24,transposase
+851,slr2046,1,2,7,1,Fat protein
+852,slr2048,1,2,7,2,hypothetical protein
+853,slr2052,1,2,7,3,
+854,sll1931,1,2,7,4,serine hydroxymethyltransferase
+855,slr1910,1,2,7,5,N-acetylmuramoyl-L-alanine amidase
+856,slr1916,1,2,7,6,esterase
+857,slr1233,1,2,7,7,succinate dehydrogenase flavoprotein subunit
+858,sll1132,1,2,7,8,
+859,sll1129,1,2,7,9,2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+860,sll1127,1,2,7,10,naphthoate synthase
+861,slr1240,1,2,7,11,
+862,slr1435,1,2,7,12,PmbA protein
+863,sll1758,1,2,7,13,hypothetical protein
+864,slr1882,1,2,7,14,hypothetical protein
+865,slr1884,1,2,7,15,tryptophanyl-tRNA synthetase
+866,sll1755,1,2,7,16,
+867,sll1709,1,2,7,17,glucose dehydrogenase
+868,sll1703,1,2,7,18,protease IV
+869,sll1615,1,2,7,19,thiophen and furan oxidation protein
+870,sll1611,1,2,7,20,
+871,sll1606,1,2,7,21,hypothetical protein
+872,slr1719,1,2,7,22,DrgA gene product
+873,slr1721,1,2,7,23,
+874,slr1724,1,2,7,24,
+875,sll0994,1,2,8,1,
+876,slr1024,1,2,8,2,
+877,sll0990,1,2,8,3,formaldehyde dehydrogenase (glutathione)
+878,slr1030,1,2,8,4,Mg-protoporhyrin IX
+879,slr1033,1,2,8,5,
+880,sll0985,1,2,8,6,
+881,slr1449,1,2,8,7,
+882,sll1349,1,2,8,8,phosphoglycolate phosphatase
+883,sll1280,1,2,8,9,
+884,sll1276,1,2,8,10,ABC transporter
+885,slr1363,1,2,8,11,hypothetical protein
+886,slr1365,1,2,8,12,BioY protein
+887,sll1623,1,2,8,13,ABC transporter
+888,slr1737,1,2,8,14,
+889,slr1740,1,2,8,15,extracellular solute-binding protein family
+890,slr1742,1,2,8,16,
+891,slr1746,1,2,8,17,glutamate racemase
+892,slr0851,1,2,8,18,NADH dehydrogenase
+893,slr0261,1,2,8,19,NADH dehydrogenase subunit 7
+894,sll0250,1,2,8,20,pantothenate metabolism flavoprotein
+895,sll0247,1,2,8,21,iron-stress chlorophyll-binding protein
+896,sll0245,1,2,8,22,hypothetical protein
+897,slr0271,1,2,8,23,
+898,slr0273,1,2,8,24,
+899,sll1981,1,2,9,1,acetolactate synthase
+900,slr2099,1,2,9,2,regulatory components of sensory transduction syst
+901,slr2102,1,2,9,3,cell division protein FtsY
+902,slr2104,1,2,9,4,sensory transduction histidine kinase
+903,sll1973,1,2,9,5,hypothetical protein
+904,sll1429,1,2,9,6,
+905,sll1258,1,2,9,7,
+906,sll1253,1,2,9,8,polyA polymerase
+907,sll1247,1,2,9,9,
+908,sll1244,1,2,9,10,50S ribosomal protein L9
+909,slr1956,1,2,9,12,
+910,slr1164,1,2,9,13,ribonucleotide reductase subunit alpha
+911,slr1166,1,2,9,14,hypothetical protein
+912,slr1167,1,2,9,15,glycerol dehydrogenase
+913,sll1089,1,2,9,16,
+914,slr1173,1,2,9,17,
+915,slr1174,1,2,9,18,
+916,slr0288,1,2,9,19,glutamate--ammonia ligase
+917,slr0293,1,2,9,20,P protein of glycine cleavage complex
+918,slr0395,1,2,9,21,transcriptional activator protein NtcB
+919,sll0360,1,2,9,22,
+920,slr0399,1,2,9,23,ycf39 gene product
+921,slr1512,1,2,10,1,
+922,sll1414,1,2,10,2,hypothetical protein
+923,slr1517,1,2,10,3,3-isopropylmalate dehydrogenase
+924,slr1519,1,2,10,4,HglK
+925,slr1521,1,2,10,5,GTP-binding protein HflX
+926,slr2107,1,2,10,6,polysialic acid transport protein KpsM
+927,slr1969,1,2,10,7,sensory transduction histidine kinase
+928,slr1971,1,2,10,8,
+929,slr1972,1,2,10,9,hypothetical protein
+930,sll1875,1,2,10,10,heme oxygenase
+931,sll1872,1,2,10,11,membrane bound protein LytR
+932,sll1869,1,2,10,12,3-chlorobenzoate-3,4-dioxygenase
+933,sll1558,1,2,10,13,mannose-1-phosphate guanyltransferase
+934,sll1556,1,2,10,14,hypothetical protein
+935,slr1689,1,2,10,15,formamidopyrimidine-DNA glycosylase
+936,slr1691,1,2,10,16,NH(3)-dependent NAD(+) synthetase
+937,slr1693,1,2,10,17,regulatory components of sensory transduction syst
+938,slr0937,1,2,10,18,
+939,slr0151,1,2,10,19,
+940,sll0149,1,2,10,20,
+941,sll0147,1,2,10,21,
+942,sll0145,1,2,10,22,ribosome releasing factor
+943,slr0156,1,2,10,23,ClpB protein
+944,sll0141,1,2,10,24,hypothetical protein
+945,sll1994,1,2,11,1,porphobilinogen synthase
+946,slr2131,1,2,11,2,acriflavin resistance protein
+947,slr1322,1,2,11,3,hypothetical protein
+948,slr1324,1,2,11,4,sensory transduction histidine kinase
+949,sll1234,1,2,11,5,S-adenosylhomocysteine hydrolase
+950,sll1232,1,2,11,6,hypothetical protein
+951,slr1476,1,2,11,7,aspartate carbamoyltransferase
+952,slr1478,1,2,11,8,
+953,sll1373,1,2,11,9,
+954,sll1371,1,2,11,10,catabolite gene activator protein
+955,sll1181,1,2,11,11,HlyD family of secretion proteins
+956,slr1265,1,2,11,12,RNA polymerase gamma-subunit
+957,slr0950,1,2,11,13,hypothetical protein
+958,sll0909,1,2,11,14,
+959,slr0952,1,2,11,15,fructose 1,6-bisphosphatase
+960,slr0955,1,2,11,16,hypothetical protein
+961,sll0905,1,2,11,17,maf protein
+962,sll1541,1,2,11,18,lignostilbene-alpha,beta-dioxygenase
+963,slr1932,1,2,11,19,
+964,sll1858,1,2,11,20,
+965,slr0993,1,2,11,21,lipoprotein NlpD
+966,sll0945,1,2,11,22,glycogen synthase
+967,slr0321,1,2,11,23,GTP-binding protein Era
+968,slr0323,1,2,11,24,alpha-mannosidase
+969,slr0804,1,2,12,1,D-alanyl-D-alanine carboxypeptidase
+970,slr0807,1,2,12,2,sialoglycoprotease
+971,slr0809,1,2,12,3,dTDP-glucose 4-6-dehydratase
+972,sll0817,1,2,12,4,tRNA delta-2-isopentenylpyrophosphate (IPP) transf
+973,sll0815,1,2,12,5,
+974,slr0813,1,2,12,6,ceramide glucosyltransferase
+975,slr1285,1,2,12,7,
+976,slr1288,1,2,12,8,
+977,sll1446,1,2,12,9,hypothetical protein
+978,sll1443,1,2,12,10,CTP synthetase
+979,sll1441,1,2,12,11,delta 15 desaturase
+980,slr1530,1,2,12,12,
+981,sll1526,1,2,12,13,
+982,sll0428,1,2,12,14,
+983,slr0444,1,2,12,15,3-phosphoshikimate 1-carboxyvinyltransferase
+984,sll0422,1,2,12,16,asparaginase
+985,slr0445,1,2,12,17,
+986,slr0447,1,2,12,18,negative aliphatic amidase regulator
+987,slr0169,1,2,12,19,
+988,sll0177,1,2,12,20,
+989,sll0173,1,2,12,21,
+990,sll0169,1,2,12,22,
+991,sll0162,1,2,12,23,
+992,slr0181,1,2,12,24,
+993,slr0369,1,2,13,1,acriflavin resistance protein
+994,sll0337,1,2,13,2,sensory transduction histidine kinase
+995,sll0335,1,2,13,3,hypothetical protein
+996,slr0378,1,2,13,4,7-beta-(4-carbaxybutanamido)cephalosporanic acid a
+997,sll0330,1,2,13,5,3-ketoacyl-acyl carrier protein reductase
+998,sll0329,1,2,13,6,6-phosphogluconate dehydrogenase
+999,slr0049,1,2,13,7,
+1000,sll0072,1,2,13,8,
+1001,sll0070,1,2,13,9,phosphoribosylglycinamide formyltransferase
+1002,slr0054,1,2,13,10,diacylglycerol kinase
+1003,sll0064,1,2,13,11,
+1004,slr0060,1,2,13,12,
+1005,sll0184,1,2,13,13,RNA polymerase sigma factor
+1006,sll0183,1,2,13,14,hypothetical protein
+1007,sll0181,1,2,13,15,
+1008,slr0207,1,2,13,16,
+1009,slr0209,1,2,13,17,
+1010,slr0212,1,2,13,18,5-methyltetrahydrofolate--homocysteine methyltrans
+1011,sll0480,1,2,13,19,
+1012,slr0510,1,2,13,20,hypothetical protein
+1013,slr0513,1,2,13,21,periplasmic iron-binding protein
+1014,sll0474,1,2,13,22,sensory transduction histidine kinase
+1015,slr0517,1,2,13,23,
+1016,slr0522,1,2,13,24,
+1017,sll0764,1,2,14,1,high-affinity branched-chain amino acid transport
+1018,sll0759,1,2,14,2,ABC transporter
+1019,sll0756,1,2,14,3,
+1020,sll0753,1,2,14,4,methylenetetrahydrofolate dehydrogenase /methenylt
+1021,sll0751,1,2,14,5,hypothetical protein
+1022,sll0750,1,2,14,6,sensory transduction histidine kinase
+1023,sll0462,1,2,14,7,
+1024,slr0473,1,2,14,8,phytochrome
+1025,slr0477,1,2,14,9,phosphoribosylglycinamide formyltransferase
+1026,slr0482,1,2,14,10,
+1027,slr0492,1,2,14,11,O-succinylbenzoic acid--CoA ligase
+1028,sll0455,1,2,14,12,homoserine dehydrogenase
+1029,sll0891,1,2,14,13,2-ketoacid dehydrogenase (malate dehydrogenase,  l
+1030,slr0559,1,2,14,14,
+1031,sll0553,1,2,14,15,
+1032,slr0565,1,2,14,16,
+1033,sll0549,1,2,14,17,
+1034,sll0547,1,2,14,18,
+1035,slr0618,1,2,14,19,cobyric acid synthase
+1036,sll0587,1,2,14,20,pyruvate kinase
+1037,sll0585,1,2,14,21,hypothetical protein
+1038,slr0625,1,2,14,22,
+1039,sll0108,1,2,14,23,NH4+ transporter
+1040,slr0103,1,2,14,24,
+1041,sll0310,1,2,15,1,
+1042,sll0024,1,2,15,2,
+1043,sll0022,1,2,15,3,
+1044,sll0020,1,2,15,4,ATP-dependent Clp protease regulatory subunit
+1045,sll0016,1,2,15,5,membrane-bound lytic transglycosylase A
+1046,slr0007,1,2,15,6,
+1047,sll0617,1,2,15,7,chloroplast membrane-associated 30 kD protein
+1048,sll0616,1,2,15,8,preprotein translocase SecA subunit
+1049,sll0613,1,2,15,9,Holliday junction DNA helicase RuvB
+1050,slr0635,1,2,15,10,
+1051,slr0637,1,2,15,11,
+1052,slr0639,1,2,15,12,hypothetical protein
+1053,sll0833,1,2,15,13,oligopeptide transport system permease protein
+1054,slr0835,1,2,15,14,MoxR protein
+1055,sll0830,1,2,15,15,elongation factor EF-G
+1056,sll0829,1,2,15,16,methyltransferase
+1057,sll0828,1,2,15,17,6-aminohexanoate-cyclic-dimer hydrolase
+1058,slr0841,1,2,15,18,
+1059,slr0112,1,2,15,19,
+1060,slr0115,1,2,15,20,regulatory components of sensory transduction syst
+1061,slr0119,1,2,15,21,serum resistance locus BrkB
+1062,sll0290,1,2,15,22,polyphosphate kinase
+1063,slr0298,1,2,15,23,heterocyst to vegetative cell connection protein
+1064,slr0300,1,2,15,24,
+1065,sll0210,1,2,16,1,hypothetical protein
+1066,sll0209,1,2,16,2,
+1067,sll0202,1,2,16,3,glucose inhibited division protein A
+1068,slr0226,1,2,16,4,
+1069,slr0228,1,2,16,5,cell division protein FtsH
+1070,sll0194,1,2,16,6,hypothetical protein
+1071,sll0395,1,2,16,7,hypothetical protein
+1072,slr0418,1,2,16,8,
+1073,sll0384,1,2,16,9,
+1074,sll0382,1,2,16,10,
+1075,sll0380,1,2,16,11,mannosyl transferase
+1076,slr0420,1,2,16,12,
+1077,sll0086,1,2,16,13,hypothetical protein
+1078,sll0083,1,2,16,14,phosphoheptose isomerase
+1079,slr0081,1,2,16,15,regulatory components of sensory transduction syst
+1080,sll0080,1,2,16,16,N-acetyl-gamma-glutamyl-phosphate reductase
+1081,sll0078,1,2,16,17,threonyl-tRNA synthetase
+1082,slr0089,1,2,16,18,delta(24)-sterol C-methyltransferase
+1083,slr0312,1,2,16,19,nitrate/nitrite response regulator protein
+1084,slr0314,1,2,16,20,bromoperoxidase
+1085,slr0316,1,2,16,21,
+1086,slr0318,1,2,16,22,
+1087,slr0786,1,2,16,23,methionine aminopeptidase
+1088,slr0788,1,2,16,24,pre-B cell enhancing factor
+1089,sll0785,1,2,17,1,
+1090,slr0801,1,2,17,2,
+1091,sll0779,1,2,17,3,PleD gene product
+1092,sll0777,1,2,17,4,
+1093,slr0697,1,2,17,5,hypothetical protein
+1094,slr0702,1,2,17,6,
+1095,sll0524,1,2,17,7,hypothetical protein
+1096,sll0521,1,2,17,8,NADH dehydrogenase subunit 6
+1097,sll0519,1,2,17,9,NADH dehydrogenase subunit 1
+1098,slr1420,1,2,17,10,
+1099,sll1343,1,2,17,11,aminopeptidase
+1100,slr1423,1,2,17,12,UDP-N-acetylmuramate-alanine ligase
+1101,slr0758,1,2,17,13,
+1102,sll0722,1,2,17,14,
+1103,sll1546,1,2,17,15,exopolyphosphatase
+1104,slr1664,1,2,17,16,
+1105,slr1666,1,2,17,17,pleiotropic regulatory protein
+1106,slr1668,1,2,17,18,
+1107,ssr3189,1,2,17,19,
+1108,ssr2087,1,2,17,20,
+1109,ssr2912,1,2,17,21,
+1110,ssl0453,1,2,17,22,phycobilisome degradation protein NblA
+1111,ssl0438,1,2,17,23,
+1112,ssl3769,1,2,17,24,
+1113,sll0741,1,2,18,1,pyruvate oxidoreductase
+1114,sll0739,1,2,18,2,ABC transporter
+1115,sll0048,1,2,18,3,
+1116,slr0023,1,2,18,4,
+1117,sll0041,1,2,18,5,methyl-accepting chemotaxis protein I
+1118,slr0031,1,2,18,6,hypothetical protein
+1119,slr1455,1,2,18,7,sulfate transport system permease protein
+1120,slr1457,1,2,18,8,chromate transport protein
+1121,sll1366,1,2,18,9,helicase of the snf2/rad54 family
+1122,sll1365,1,2,18,10,
+1123,slr1463,1,2,18,11,elongation factor EF-G
+1124,sll1363,1,2,18,12,ketol-acid reductoisomerase
+1125,slr0453,1,2,18,13,
+1126,slr0457,1,2,18,14,tRNA pseudouridine 55 synthase
+1127,slr1176,1,2,18,15,ADP-glucose pyrophosphorylase
+1128,slr1179,1,2,18,16,hypothetical protein
+1129,sll1109,1,2,18,17,
+1130,slr1181,1,2,18,18,photosystem II D1 protein
+1131,ssr3341,1,2,18,19,
+1132,smr0010,1,2,18,20,PetG subunit of the cytochrome b6f complex
+1133,ssr2803,1,2,18,21,hypothetical protein
+1134,ssr2831,1,2,18,22,photosystem I subunit IV
+1135,ssl0483,1,2,18,23,
+1136,ssl0564,1,2,18,24,transcriptional regulatory protein
+1137,sll0027,1,2,19,1,NADH dehydrogenase subunit 4
+1138,sll0518,1,2,19,2,
+1139,slr0527,1,2,19,3,ExsB protein
+1140,slr0529,1,2,19,4,
+1141,slr0531,1,2,19,5,membrane bound sugar transport protein
+1142,slr0533,1,2,19,6,sensory transduction histidine kinase
+1143,slr0666,1,2,19,7,
+1144,slr1556,1,2,19,8,2-hydroxyaciddehydrogenase
+1145,slr1557,1,2,19,9,
+1146,sll1495,1,2,19,10,
+1147,slr1560,1,2,19,11,histidyl tRNA synthetase
+1148,sll1491,1,2,19,12,beta transducin-like protein
+1149,sgl0002,1,2,19,13,
+1150,ssl2615,1,2,19,14,ATP synthase subunit c
+1151,ssr3000,1,2,19,15,
+1152,ssl1784,1,2,19,16,30S ribosomal protein S15
+1153,ssr1768,1,2,19,17,
+1154,ssr1155,1,2,19,18,
+1155,ssr0330,1,2,19,19,ferredoxin-thioredoxin reductase, variable chain
+1156,slr1761,1,2,19,20,FKBP-type peptidyl-prolyl cis-trans isomerase
+1157,ssl1046,1,2,19,21,
+1158,ssr1407,1,2,19,22,
+1159,ssr1425,1,2,19,23,ycf34 gene product
+1160,ssr1041,1,2,19,24,
+1161,slr0541,1,2,20,1,hypothetical protein
+1162,slr0543,1,2,20,2,tryptophan synthase beta subunit
+1163,slr0544,1,2,20,3,ABC transporter
+1164,slr0545,1,2,20,4,auxin-induced protein
+1165,sll0495,1,2,20,5,asparaginyl-tRNA synthetase
+1166,sll0537,1,2,20,6,ammonium transport protein amt1
+1167,sll1481,1,2,20,7,
+1168,sll1477,1,2,20,8,
+1169,sll1473,1,2,20,9,
+1170,slr1584,1,2,20,10,regulatory components of sensory transduction syst
+1171,slr1588,1,2,20,11,hypothetical protein
+1172,sll0736,1,2,20,12,
+1173,ssr2848,1,2,20,13,
+1174,ssl3446,1,2,20,14,
+1175,ssl3335,1,2,20,15,secretory protein SecE
+1176,ssl2823,1,2,20,16,hypothetical protein
+1177,ssl3177,1,2,20,17,rare lipoprotein A
+1178,ssr2049,1,2,20,18,protochlorophillide reductase 57 kD subunit
+1179,ssl0832,1,2,20,19,
+1180,slr1493,1,2,20,20,
+1181,sll1398,1,2,20,21,photosystem II 13 kD protein
+1182,sll1062,1,2,20,22,
+1183,sll1057,1,2,20,23,thioredoxin M
+1184,sll1045,1,2,20,24,mutator MutT protein
+1185,slr1100,1,2,21,1,
+1186,ssl2009,1,2,21,2,
+1187,slr1780,1,2,21,3,hypothetical protein
+1188,sll1671,1,2,21,4,hypothetical protein
+1189,sll1192,1,2,21,5,
+1190,slr0967,1,2,21,6,hypothetical protein
+1191,slr1903,1,2,21,7,
+1192,slr1195,1,2,21,8,
+1193,slr1205,1,2,21,9,
+1194,sll1740,1,2,21,10,50S ribosomal protein L19
+1195,slr1828,1,2,21,11,ferredoxin
+1196,sll1735,1,2,21,12,secreted protein MPB70
+1197,sll1182,1,2,21,13,cytochrome b6/f complex iron-sulfur subunit
+1198,slr1279,1,2,21,14,NADH dehydrogenase subunit 3
+1199,sll1442,1,2,21,15,
+1200,sll1097,1,2,21,16,30S ribosomal protein S7
+1201,sll1092,1,2,21,17,
+1202,sll1086,1,2,21,18,
+1203,slr0438,1,2,21,19,
+1204,slr0055,1,2,21,20,anthranilate synthase component II
+1205,slr0058,1,2,21,21,
+1206,slr0474,1,2,21,22,
+1207,slr0483,1,2,21,23,hypothetical protein
+1208,slr0491,1,2,21,24,
+1209,slr1084,1,2,22,1,
+1210,slr0686,1,2,22,2,
+1211,sll1515,1,2,22,3,
+1212,sll1509,1,2,22,4,hypothetical protein
+1213,slr1601,1,2,22,5,
+1214,slr1440,1,2,22,7,
+1215,sll1282,1,2,22,8,riboflavin synthase beta subunit
+1216,slr1362,1,2,22,9,
+1217,slr1366,1,2,22,10,lipoprotein signal peptidase
+1218,slr0879,1,2,22,11,glycine decarboxylase complex H-protein
+1219,sll0872,1,2,22,12,
+1220,slr0960,1,2,22,13,
+1221,slr1623,1,2,22,14,
+1222,slr1628,1,2,22,15,
+1223,slr1638,1,2,22,16,
+1224,slr0443,1,2,22,17,
+1225,sll0420,1,2,22,18,urease beta subunit
+1226,ssl0353,1,2,22,19,hypothetical protein
+1227,slr0903,1,2,22,20,molybdopterin (MPT) converting factor, subunit 2
+1228,slr0919,1,2,22,21,
+1229,sll0892,1,2,22,22,aspartate 1-decarboxylase
+1230,slr0923,1,2,22,23,hypothetical protein
+1231,sll0546,1,2,22,24,hypothetical protein
+1232,sll1749,1,2,23,1,
+1233,slr2033,1,2,23,2,rubredoxin
+1234,sll1937,1,2,23,3,ferric uptake regulation protein
+1235,slr1911,1,2,23,4,
+1236,slr1912,1,2,23,5,
+1237,sll1834,1,2,23,6,
+1238,sll1702,1,2,23,7,hypothetical protein
+1239,slr1811,1,2,23,8,hypothetical protein
+1240,slr1814,1,2,23,9,hypothetical protein
+1241,sll1694,1,2,23,10,general secretion pathway protein G
+1242,slr1739,1,2,23,11,
+1243,sll0857,1,2,23,12,
+1244,ssr0657,1,2,23,13,
+1245,slr0146,1,2,23,14,
+1246,slr0150,1,2,23,15,ferredoxin
+1247,slr0162,1,2,23,16,general secretion pathway protein F
+1248,sll1862,1,2,23,17,
+1249,sll0947,1,2,23,18,light repressed protein
+1250,sll0479,1,2,23,19,
+1251,slr0516,1,2,23,20,hypothetical protein
+1252,slr0519,1,2,23,21,
+1253,sll0595,1,2,23,22,
+1254,sll0584,1,2,23,23,hypothetical protein
+1255,ssl0546,1,2,23,24,septum site-determining protein MinE
+1256,sll1293,1,2,24,1,
+1257,slr1391,1,2,24,2,
+1258,sll1584,1,2,24,3,
+1259,slr2006,1,2,24,4,
+1260,slr2010,1,2,24,5,
+1261,ssr3410,1,2,24,6,
+1262,slr2111,1,2,24,7,
+1263,sll1236,1,2,24,8,
+1264,slr1330,1,2,24,9,ATP synthase e subunit
+1265,slr0815,1,2,24,10,
+1266,slr0821,1,2,24,11,hypothetical protein
+1267,sll0802,1,2,24,12,hypothetical protein
+1268,sll0328,1,2,24,13,
+1269,slr0770,1,2,24,14,
+1270,sll0767,1,2,24,15,50S ribosomal protein L20
+1271,sll0762,1,2,24,16,
+1272,sll0754,1,2,24,17,hypothetical protein
+1273,slr0345,1,2,24,18,
+1274,sll0670,1,2,24,19,
+1275,slr0709,1,2,24,20,hypothetical protein
+1276,sll0662,1,2,24,21,
+1277,sll0658,1,2,24,22,
+1278,slr0022,1,2,24,23,
+1279,sll0042,1,2,24,24,methyl-accepting chemotaxis protein II
+1280,slr1562,1,2,25,1,glutaredoxin
+1281,slr1576,1,2,25,2,
+1282,slr0757,1,2,25,3,
+1283,sll1543,1,2,25,4,
+1284,sll0444,1,2,25,5,
+1285,sll0436,1,2,25,6,
+1286,sll0886,1,2,25,7,hypothetical protein
+1287,slr0896,1,2,25,8,hypothetical protein
+1288,slr0898,1,2,25,9,ferredoxin--nitrite reductase
+1289,sll0902,1,2,25,10,ornithine carbamoyltransferase chain f
+1290,slr0927,1,2,25,11,photosystem II D2 protein
+1291,slr0930,1,2,25,12,
+1292,slr0364,1,2,25,13,
+1293,slr0707,1,2,25,14,DNA polymerase I
+1294,sll1202,1,2,25,15,
+1295,slr2027,1,2,25,16,
+1296,sll1530,1,2,25,17,
+1297,sll0192,1,2,25,18,
+1298,sll1054,1,2,25,19,hypothetical protein
+1299,sll1338,1,2,25,20,
+1300,slr1148,1,2,25,21,
+1301,slr1236,1,2,25,22,
+1302,sll1188,1,2,25,23,
+1303,slr1667,1,2,25,24,
+1304,sll0576,1,2,26,1,HrEpiB
+1305,sll0574,1,2,26,2,integral membrane O-antigen translocator protein
+1306,sll0573,1,2,26,3,carbamate kinase
+1307,slr0593,1,2,26,4,cAMP protein kinase regulatory chain
+1308,slr0594,1,2,26,5,
+1309,slr0597,1,2,26,6,phosphoribosyl aminoimidazole carboxy formyl formy
+1310,slr1660,1,2,26,7,
+1311,slr0585,1,2,26,8,argininosuccinate synthetase
+1312,slr0240,1,2,26,9,
+1313,sll1658,1,2,26,10,
+1314,sll1652,1,2,26,11,
+1315,sll1573,1,2,26,12,
+1316,sll1249,1,2,26,13,pantothenate synthetase/cytidylate kinase
+1317,slr0794,1,2,26,14,cation efflux system protein
+1318,slr0502,1,2,26,15,CobW protein
+1319,sll0204,1,2,26,16,glucose inhibited division protein A
+1320,sll1629,1,2,26,17,DNA photolyase
+1321,slr1267,1,2,26,18,rod-shape-determining protein
+1322,sll1411,1,2,26,19,
+1323,sll0761,1,2,26,20,
+1324,slr1513,1,2,26,21,
+1325,sll0743,1,2,26,22,hypothetical protein
+1326,sll1596,1,2,26,23,
+1327,slr1915,1,2,26,24,
+1328,slr2096,1,2,27,1,
+1329,slr0698,1,2,27,2,
+1330,slr1490,1,2,27,3,ferrichrome-iron receptor
+1331,sll1660,1,2,27,4,
+1332,slr1800,1,2,27,5,
+1333,sll1655,1,2,27,6,biotin [acetyl-CoA-carboxylase] ligase
+1334,sll1712,1,2,27,7,DNA binding protein HU
+1335,slr1852,1,2,27,8,
+1336,slr1854,1,2,27,9,
+1337,slr1861,1,2,27,10,
+1338,sll2006,1,2,27,11,
+1339,sll1692,1,2,27,12,hypothetical protein
+1340,slr1547,1,2,27,13,
+1341,slr0722,1,2,27,14,hypothetical protein
+1342,slr0199,1,2,27,15,hypothetical protein
+1343,sll1251,1,2,27,16,
+1344,sll1595,1,2,27,17,
+1345,slr1563,1,2,27,18,hypothetical protein
+1346,ssr1604,1,2,27,19,50S ribosomal protein L28
+1347,ssl0259,1,2,27,20,
+1348,ssl1498,1,2,27,21,
+1349,sll0017,1,2,27,22,glutamate-1-semialdehyde 2,1- aminomutase
+1350,sll0312,1,2,27,23,oligopeptide transport system permease protein
+1351,sll0372,1,2,27,24,
+1352,slr1710,1,2,28,1,penicillin-binding protein 1B
+1353,sll1077,1,2,28,2,agmatine ureohydrolase
+1354,sll1818,1,2,28,3,RNA polymerase alpha subunit
+1355,sll1804,1,2,28,4,30S ribosomal protein S3
+1356,sll1799,1,2,28,5,50S ribosomal protein L3
+1357,slr1207,1,2,28,6,
+1358,sll1851,1,2,28,7,
+1359,sll1845,1,2,28,8,
+1360,ssr3307,1,2,28,9,hypothetical protein
+1361,sll0189,1,2,28,10,
+1362,sll0901,1,2,28,11,phosphoribosylaminoimidazole carboxylase
+1363,ssr1558,1,2,28,12,hypothetical protein
+1364,sll1107,1,2,28,13,
+1365,sll1252,1,2,28,14,
+1366,slr1272,1,2,28,15,
+1367,slr0440,1,2,28,16,
+1368,sll0034,1,2,28,17,
+1369,slr0014,1,2,28,18,Mg2+ transport ATPase
+1370,slr0165,1,2,28,19,ATP-dependent Clp protease proteolytic subunit
+1371,slr0351,1,2,28,20,
+1372,slr0446,1,2,28,21,DNA polymerase III subunit
+1373,slr0689,1,2,28,22,
+1374,slr0728,1,2,28,23,
+1375,slr0900,1,2,28,24,molybdopterin biosynthesis MoeA
+1376,slr1840,1,2,29,1,hypothetical protein
+1377,slr1842,1,2,29,2,cysteine synthase
+1378,sll1717,1,2,29,3,
+1379,sll1785,1,2,29,4,
+1380,slr1855,1,2,29,5,
+1381,slr1860,1,2,29,6,ICFG protein
+1382,slr1204,1,2,29,19,serine protease HtrA
+1383,slr1254,1,2,29,20,phytoene desaturase
+1384,slr1727,1,2,29,21,eukaryotic Na+/H+ exchanger
+1385,slr1350,1,2,29,22,fatty acid desaturase
+1386,sll0273,1,2,29,23,Na+/H+ exchanger
+1387,sll0416,1,2,29,24,60kD chaperonin 2
+1388,slr2141,1,2,30,2,
+1389,slr2143,1,2,30,3,isopenicillin N epimerase
+1390,sll1693,1,2,30,4,hypothetical protein
+1391,slr1819,1,2,30,5,hypothetical protein
+1392,sll1688,1,2,30,6,threonine synthase
+1393,slr1441,1,2,30,19,
+1394,sll0517,1,2,30,20,RNA binding protein
+1395,sll0897,1,2,30,21,DnaJ protein
+1396,sll0936,1,2,30,22,hypothetical protein
+1397,slr1535,1,2,30,23,
+1398,slr0887,1,2,30,24,
+1399,sll1883,1,2,31,1,ornithine acetyltransferase
+1400,slr1975,1,2,31,2,renin-binding protein
+1401,sll1878,1,2,31,3,ABC transporter
+1402,slr1978,1,2,31,4,
+1403,slr1980,1,2,31,5,
+1404,slr1534,1,2,31,6,
+1405,slr1068,1,2,31,19,
+1406,slr1135,1,2,31,20,
+1407,slr1826,1,2,31,21,
+1408,sll1163,1,2,31,22,
+1409,slr1999,1,2,31,23,
+1410,sll1613,1,2,31,24,
+1411,slr0442,1,2,32,1,
+1412,slr1935,1,2,32,2,
+1413,sll1849,1,2,32,3,
+1414,sll1848,1,2,32,4,
+1415,slr1940,1,2,32,5,
+1416,slr1944,1,2,32,6,
+1417,slr0607,1,2,32,19,
+1418,sll1659,1,2,32,20,
+1419,sll1810,1,2,32,21,50S ribosomal protein L6
+1420,slr1356,1,2,32,22,30S ribosomal protein S1
+1421,ssl3093,1,2,32,23,phycocyanin associated linker protein
+1422,sll1822,1,2,32,24,30S ribosomal protein S9
+1423,sll1206,2,1,1,1,ferric aerobactin receptor
+1424,sll1204,2,1,1,2,hypothetical protein
+1425,sll1408,2,1,1,3,regulatory protein PcrR
+1426,sll1406,2,1,1,4,ferrichrome-iron receptor
+1427,slr1484,2,1,1,5,
+1428,slr1488,2,1,1,6,ABC transporter
+1429,sll1319,2,1,1,7,
+1430,sll1041,2,1,1,8,ABC transporter
+1431,slr1093,2,1,1,9,7, 8-dihydro-6-hydroxymethylpterin-pyrophosphokin
+1432,sll1039,2,1,1,10,hypothetical protein
+1433,slr1096,2,1,1,11,dihydrolipoamide dehydrogenase
+1434,slr1102,2,1,1,12,hypothetical protein
+1435,sll0924,2,1,1,13,
+1436,slr0976,2,1,1,14,
+1437,slr0981,2,1,1,15,
+1438,slr0983,2,1,1,16,alpha-D-glucose-1-phosphate cytidylyltransferase
+1439,slr0985,2,1,1,17,dTDP-6-deoxy-L-mannose-dehydrogenase
+1440,slr1612,2,1,1,18,
+1441,sll1283,2,1,1,19,sporulation protein SpoIID
+1442,sll1583,2,1,1,20,DNA ligase
+1443,sll1581,2,1,1,21,GumB  protein
+1444,slr1703,2,1,1,22,seryl-tRNA synthetase
+1445,sll1927,2,1,1,23,oligopeptide transport ATP-binding protein OppF
+1446,sll1925,2,1,1,24,
+1447,slr1501,2,1,2,1,
+1448,slr1114,2,1,2,2,
+1449,slr1117,2,1,2,3,
+1450,slr1118,2,1,2,4,UDP-N-acetyl-D-mannosaminuronic acid transferase
+1451,slr1119,2,1,2,5,
+1452,sll1059,2,1,2,6,adenylate kinase
+1453,slr1773,2,1,2,7,
+1454,sll1685,2,1,2,8,heme binding protein precursor
+1455,sll1682,2,1,2,9,alanine dehydrogenase
+1456,sll1681,2,1,2,10,
+1457,sll1679,2,1,2,11,protease HhoA
+1458,slr1784,2,1,2,12,biliverdin reductase
+1459,slr1072,2,1,2,13,GDP-D-mannose dehydratase
+1460,slr1074,2,1,2,14,
+1461,slr1077,2,1,2,15,
+1462,slr1085,2,1,2,16,
+1463,sll1023,2,1,2,17,succinate--CoA ligase
+1464,sll1021,2,1,2,18,
+1465,sll1916,2,1,2,19,
+1466,slr2026,2,1,2,20,dihydropteroate pyrophosphorylase
+1467,slr2030,2,1,2,21,
+1468,slr1133,2,1,2,22,L-argininosuccinate lyase
+1469,slr1136,2,1,2,23,cytochrome c oxidase subunit II
+1470,slr1138,2,1,2,24,cytochrome c oxidase subunit III
+1471,slr0721,2,1,3,1,malic enzyme
+1472,sll0710,2,1,3,2,
+1473,sll0708,2,1,3,3,dimethyladenosine transferase
+1474,slr0731,2,1,3,4,
+1475,sll0703,2,1,3,5,
+1476,slr0734,2,1,3,6,
+1477,slr1794,2,1,3,7,hypothetical protein
+1478,sll1667,2,1,3,8,mitochondrial outer membrane 72K protein
+1479,sll1665,2,1,3,9,
+1480,sll1663,2,1,3,10,
+1481,slr1289,2,1,3,11,isocitrate dehydrogenase (NADP+)
+1482,slr1291,2,1,3,12,NADH dehydrogenase subunit 4
+1483,slr0682,2,1,3,13,histidinol dehydrogenase
+1484,sll0648,2,1,3,14,lipophilic protein
+1485,sll0646,2,1,3,15,adenylate cyclase
+1486,sll0644,2,1,3,16,esterase
+1487,slr0687,2,1,3,17,PleD gene product
+1488,sll0640,2,1,3,18,sulfur deprivation response regulator
+1489,sll1824,2,1,3,19,
+1490,slr1897,2,1,3,20,SrrA
+1491,slr1899,2,1,3,21,urease accessory protein F
+1492,slr1901,2,1,3,22,ABC transporter
+1493,sll1787,2,1,3,23,RNA polymerase beta subunit
+1494,sll1123,2,1,3,24,
+1495,sll0226,2,1,4,1,hypothetical protein
+1496,sll0224,2,1,4,2,
+1497,slr0252,2,1,4,3,
+1498,slr0254,2,1,4,4,
+1499,sll0220,2,1,4,5,L-glutamine:D-fructose-6-P amidotransferase
+1500,sll0218,2,1,4,6,
+1501,slr1306,2,1,4,7,
+1502,sll1186,2,1,4,8,
+1503,sll1184,2,1,4,9,heme oxygenase
+1504,slr0962,2,1,4,10,
+1505,slr0963,2,1,4,11,ferredoxin-sulfite reductase
+1506,slr0965,2,1,4,12,DNA polymerase III beta subunit
+1507,sll1513,2,1,4,13,c-type cytochrome synthesis protein
+1508,sll1511,2,1,4,14,
+1509,slr1599,2,1,4,15,
+1510,slr1604,2,1,4,16,cell division protein FtsH
+1511,slr1608,2,1,4,17,glucose dehydrogenase-B
+1512,sll1500,2,1,4,18,
+1513,slr1215,2,1,4,19,
+1514,sll1747,2,1,4,20,chorismate synthase
+1515,sll1738,2,1,4,21,hypothetical protein
+1516,slr1830,2,1,4,22,poly(3-hydroxyalkanoate) synthase
+1517,sll1733,2,1,4,23,NADH dehydrogenase subunit 4
+1518,sll1726,2,1,4,24,
+1519,slr1056,2,1,5,1,
+1520,sll1005,2,1,5,2,regulatory protein for beta-lactamase
+1521,sll1003,2,1,5,3,sensory transduction histidine kinase
+1522,sll1001,2,1,5,4,ABC transporter
+1523,slr1755,2,1,5,5,NAD+ dependent glycerol-3-phosphate dehydrogenase
+1524,slr1760,2,1,5,6,regulatory components of sensory transduction syst
+1525,sll1468,2,1,5,7,
+1526,sll1466,2,1,5,8,
+1527,sll1463,2,1,5,9,cell division protein FtsH
+1528,sll1461,2,1,5,10,
+1529,slr1549,2,1,5,11,polypeptide deformylase
+1530,sll1457,2,1,5,12,RfbJ protein
+1531,slr0888,2,1,5,13,
+1532,sll0865,2,1,5,14,excinuclease ABC subunit C
+1533,sll0862,2,1,5,15,
+1534,sll1316,2,1,5,16,plastoquinol--plastocyanin reductase
+1535,sll1314,2,1,5,17,C4-dicarboxylase binding protein
+1536,slr1407,2,1,5,18,
+1537,sll1164,2,1,5,19,
+1538,sll1161,2,1,5,20,
+1539,slr1245,2,1,5,21,transcriptional regulator
+1540,sll1154,2,1,5,22,quinolene resistance protein NorA
+1541,slr1249,2,1,5,23,phosphate transport system permease protein PstA
+1542,sll1151,2,1,5,24,
+1543,slr2032,2,1,6,1,hypothetical protein
+1544,slr2034,2,1,6,2,hypothetical protein
+1545,slr2037,2,1,6,3,
+1546,sll1942,2,1,6,4,
+1547,sll1939,2,1,6,5,
+1548,slr2043,2,1,6,6,adhesion protein
+1549,slr1222,2,1,6,7,
+1550,sll1142,2,1,6,8,
+1551,slr1225,2,1,6,9,protein kinase PknA
+1552,slr1226,2,1,6,10,phosphoribosyl aminoidazole succinocarboxamide syn
+1553,slr1228,2,1,6,11,peptide-chain-release factor 3
+1554,slr1230,2,1,6,12,
+1555,slr1871,2,1,6,13,transcriptional regulator
+1556,sll1771,2,1,6,14,hypothetical protein
+1557,sll1768,2,1,6,15,oligopeptide transport system permease protein
+1558,slr1877,2,1,6,16,5-oxo-1,2,5-tricarboxilic-3-penten acid decarboxi
+1559,sll1762,2,1,6,17,
+1560,sll1761,2,1,6,18,
+1561,sll1909,2,1,6,19,ribosomal protein L11 methyltransferase, PrmA
+1562,slr1990,2,1,6,20,
+1563,slr1994,2,1,6,21,3-ketoacyl-acyl carrier protein reductase
+1564,slr1998,2,1,6,22,
+1565,slr2001,2,1,6,23,
+1566,slr2003,2,1,6,24,
+1567,slr1917,2,1,7,1,
+1568,sll1833,2,1,7,2,penicillin-binding protein
+1569,sll1830,2,1,7,3,
+1570,slr1920,2,1,7,4,
+1571,slr1019,2,1,7,5,hypothetical protein
+1572,sll0996,2,1,7,6,hypothetical protein
+1573,slr1436,2,1,7,7,
+1574,sll1362,2,1,7,8,isoleucyl-tRNA synthetase
+1575,sll1359,2,1,7,9,
+1576,sll1356,2,1,7,10,glycogen phosphorylase
+1577,slr1443,2,1,7,11,protein kinase
+1578,sll1354,2,1,7,12,single-strand-DNA-specific exonuclease RecJ
+1579,slr1807,2,1,7,13,
+1580,slr1809,2,1,7,14,
+1581,sll1697,2,1,7,15,
+1582,sll1696,2,1,7,16,
+1583,slr1734,2,1,7,17,OxPPCycle gene
+1584,sll1626,2,1,7,18,SOS function regulatory protein
+1585,sll1600,2,1,7,19,Mn transporter MntB
+1586,sll1598,2,1,7,20,Mn transporter MntC
+1587,sll1594,2,1,7,21,rubisco operon transcriptional regulator
+1588,slr1728,2,1,7,22,potassium-transporting ATPase A chain
+1589,slr1731,2,1,7,23,potassium-transporting ATPase D chain
+1590,sll0254,2,1,7,24,
+1591,sll0983,2,1,8,1,
+1592,slr1039,2,1,8,2,
+1593,slr1378,2,1,8,3,
+1594,slr1380,2,1,8,4,cytochrome oxidase d subunit II
+1595,sll1299,2,1,8,5,acetate kinase
+1596,slr1384,2,1,8,6,
+1597,sll1273,2,1,8,7,
+1598,sll1271,2,1,8,8,
+1599,slr1367,2,1,8,9,glycogen phosphorylase
+1600,slr1369,2,1,8,10,phosphatidate cytidylyltransferase
+1601,sll1267,2,1,8,11,
+1602,sll0876,2,1,8,12,Holliday junction DNA helicase RuvA
+1603,slr0854,2,1,8,13,deoxyribopyrimidine photolyase
+1604,sll0856,2,1,8,14,RNA polymerase sigma-E factor
+1605,sll0854,2,1,8,15,
+1606,sll0847,2,1,8,16,
+1607,slr0862,2,1,8,17,LmbP protein
+1608,sll0844,2,1,8,18,hypothetical protein
+1609,sll0243,2,1,8,19,
+1610,sll0240,2,1,8,20,ABC transporter
+1611,slr2079,2,1,8,21,
+1612,slr2082,2,1,8,22,cytochrome c oxidase subunit I
+1613,slr2084,2,1,8,23,
+1614,sll1987,2,1,8,24,catalase hpi
+1615,sll1428,2,1,9,1,P3 protein
+1616,sll1427,2,1,9,2,protease HhoB
+1617,slr1505,2,1,9,3,
+1618,sll1423,2,1,9,4,global nitrogen regulator
+1619,slr1507,2,1,9,5,
+1620,slr1509,2,1,9,6,Na+ -ATPase subunit J
+1621,slr1958,2,1,9,7,
+1622,sll1899,2,1,9,8,cytochrome c oxidase folding protein
+1623,slr1959,2,1,9,9,
+1624,slr1963,2,1,9,10,
+1625,slr1966,2,1,9,11,
+1626,slr1968,2,1,9,12,
+1627,sll1085,2,1,9,13,glycerol-3-phosphate dehydrogenase
+1628,slr1670,2,1,9,14,
+1629,slr1673,2,1,9,15,rRNA methylase
+1630,slr1679,2,1,9,16,
+1631,sll1563,2,1,9,17,
+1632,slr1681,2,1,9,18,
+1633,slr0401,2,1,9,19,spermidine/putrescine-binding periplasmic protein
+1634,slr0404,2,1,9,20,
+1635,sll0355,2,1,9,21,
+1636,slr0407,2,1,9,22,hypothetical protein
+1637,slr0142,2,1,9,23,
+1638,slr0144,2,1,9,24,
+1639,slr2108,2,1,10,1,polysialic acid transport ATP-binding protein KpsT
+1640,slr2115,2,1,10,2,
+1641,slr2119,2,1,10,3,
+1642,slr2122,2,1,10,4,
+1643,slr2124,2,1,10,5,short-chain alcohol dehydrogenase family
+1644,slr2126,2,1,10,6,
+1645,slr1984,2,1,10,7,30S ribosomal protein S1
+1646,sll1867,2,1,10,8,photosystem II D1 protein
+1647,sll1390,2,1,10,9,
+1648,sll1387,2,1,10,10,
+1649,slr1471,2,1,10,11,inner membrane protein
+1650,sll1383,2,1,10,12,extragenic suppressor SuhB
+1651,slr0938,2,1,10,13,
+1652,sll0915,2,1,10,14,protease
+1653,slr0943,2,1,10,15,fructose-bisphosphate aldolase
+1654,slr0944,2,1,10,16,hypothetical protein
+1655,slr0947,2,1,10,17,regulatory components of sensory transduction syst
+1656,sll0913,2,1,10,18,hypothetical protein
+1657,slr0161,2,1,10,19,twitching motility protein
+1658,sll0135,2,1,10,20,hypothetical protein
+1659,slr1924,2,1,10,21,D-alanyl-D-alanine carboxypeptidase
+1660,sll1864,2,1,10,22,chloride channel protein
+1661,slr1927,2,1,10,23,
+1662,slr1929,2,1,10,24,
+1663,sll1231,2,1,11,1,Mannosyltransferase B
+1664,sll1228,2,1,11,2,sensory transduction histidine kinase
+1665,slr1331,2,1,11,3,processing protease
+1666,sll1226,2,1,11,4,hydrogenase large subunit
+1667,sll1222,2,1,11,5,
+1668,sll1220,2,1,11,6,potential NAD-reducing hydrogenase subunit
+1669,sll1178,2,1,11,7,nodulation protein
+1670,slr1269,2,1,11,8,gamma-glutamyltranspeptidase
+1671,slr1277,2,1,11,9,general secretion pathway protein D
+1672,sll1173,2,1,11,10,
+1673,sll1172,2,1,11,11,threonine synthase
+1674,slr1281,2,1,11,12,NADH dehydrogenase subunit I
+1675,sll1540,2,1,11,13,dolichyl-phosphate-mannose synthase
+1676,slr1624,2,1,11,14,
+1677,slr1627,2,1,11,15,hypothetical protein
+1678,slr1629,2,1,11,16,hypothetical protein
+1679,sll1534,2,1,11,17,hypothetical protein
+1680,sll1531,2,1,11,18,
+1681,slr0324,2,1,11,19,oligopeptide transport system permease protein
+1682,slr0327,2,1,11,20,iron utilization protein
+1683,sll0297,2,1,11,21,
+1684,sll0295,2,1,11,22,
+1685,slr0337,2,1,11,23,
+1686,sll0293,2,1,11,24,
+1687,sll0810,2,1,12,1,
+1688,slr0818,2,1,12,2,
+1689,slr0820,2,1,12,3,glucosyltransferase
+1690,slr0822,2,1,12,4,cation-transporting ATPase PacL
+1691,sll0804,2,1,12,5,
+1692,sll1261,2,1,12,6,elongation factor TS
+1693,slr1531,2,1,12,7,signal recognition particle protein
+1694,sll1434,2,1,12,8,penicillin-binding protein 1B
+1695,sll1104,2,1,12,9,glutamine-binding protein
+1696,sll1102,2,1,12,10,
+1697,sll1095,2,1,12,11,hypothetical protein
+1698,slr1160,2,1,12,12,
+1699,sll0274,2,1,12,13,
+1700,slr0280,2,1,12,14,
+1701,sll0267,2,1,12,15,hypothetical protein
+1702,sll0265,2,1,12,16,
+1703,sll0263,2,1,12,17,
+1704,slr0285,2,1,12,18,
+1705,sll0160,2,1,12,19,
+1706,sll0157,2,1,12,20,
+1707,slr0184,2,1,12,21,
+1708,slr0186,2,1,12,22,2-isopropylmalate synthase
+1709,slr0360,2,1,12,23,
+1710,slr0362,2,1,12,24,hypothetical protein
+1711,slr0387,2,1,13,2,NifS protein
+1712,slr0769,2,1,13,3,hypothetical protein
+1713,sll0772,2,1,13,4,
+1714,slr0774,2,1,13,5,protein-export membrane protein SecD
+1715,slr0776,2,1,13,6,UDP-3-o-[3-hydroxymyristoyl] glucosamine n-acyltra
+1716,slr0061,2,1,13,7,
+1717,sll0060,2,1,13,8,
+1718,slr0065,2,1,13,9,
+1719,sll0055,2,1,13,10,processing protease
+1720,sll0053,2,1,13,11,biotin carboxylase
+1721,slr0070,2,1,13,12,methionyl-tRNA formyltransferase
+1722,sll0178,2,1,13,13,
+1723,slr0905,2,1,13,15,Mg-protoporphyrin IX monomethyl ester oxidative cy
+1724,slr0907,2,1,13,16,
+1725,slr0912,2,1,13,17,
+1726,slr0914,2,1,13,18,
+1727,sll0471,2,1,13,19,
+1728,slr0523,2,1,13,20,
+1729,sll0467,2,1,13,21,queuosine biosynthesis protein QueA
+1730,sll0596,2,1,13,22,
+1731,sll0593,2,1,13,23,glucokinase
+1732,slr0616,2,1,13,24,hypothetical protein
+1733,slr0344,2,1,14,1,mannosyl transferase
+1734,sll0322,2,1,14,2,transcriptional regulatory protein HypF
+1735,slr0347,2,1,14,3,
+1736,sll0319,2,1,14,4,
+1737,sll0314,2,1,14,5,
+1738,slr0355,2,1,14,6,
+1739,slr0495,2,1,14,7,lipopeptide antibiotics iturin a biosynthesis prot
+1740,sll0691,2,1,14,8,
+1741,sll0687,2,1,14,9,
+1742,sll0684,2,1,14,10,phosphate transport ATP-binding protein PstB
+1743,sll0682,2,1,14,11,phosphate transport system permease protein PstA
+1744,sll0680,2,1,14,12,phosphate-binding periplasmic protein precursor (P
+1745,sll0545,2,1,14,13,hypothetical protein
+1746,slr0574,2,1,14,14,cytochrome P450
+1747,sll0542,2,1,14,15,acetyl-coenzyme A synthetase
+1748,sll0540,2,1,14,16,hypothetical protein
+1749,slr0583,2,1,14,17,hypothetical protein
+1750,slr0827,2,1,14,18,alanine racemase
+1751,slr0104,2,1,14,19,hypothetical protein
+1752,slr0105,2,1,14,20,
+1753,sll0100,2,1,14,21,N-acyl-L-amino acid amidohydrolase
+1754,sll0098,2,1,14,22,hypothetical protein
+1755,sll0096,2,1,14,23,
+1756,sll0094,2,1,14,24,
+1757,slr0008,2,1,15,1,carboxyl-terminal processing protease
+1758,slr0017,2,1,15,2,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1759,slr0019,2,1,15,3,
+1760,sll0006,2,1,15,4,aspartate aminotransferase
+1761,slr0020,2,1,15,5,DNA recombinase
+1762,sll0002,2,1,15,6,penicillin-binding protein 1A
+1763,slr0640,2,1,15,7,sensory transduction histidine kinase
+1764,slr0643,2,1,15,8,
+1765,sll0603,2,1,15,9,2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxyl
+1766,slr0645,2,1,15,10,
+1767,slr0649,2,1,15,11,methionyl-tRNA synthetase
+1768,sll0398,2,1,15,12,dGTP triphosphohydrolase
+1769,slr0842,2,1,15,13,hypothetical protein
+1770,slr0844,2,1,15,14,NADH dehydrogenase subunit 5
+1771,sll0823,2,1,15,15,succinate dehydrogenase iron-sulfur protein
+1772,slr0848,2,1,15,16,hypothetical protein
+1773,slr0073,2,1,15,17,chemotaxis protein CheA
+1774,slr0075,2,1,15,18,ABC transporter subunit
+1775,slr0301,2,1,15,19,phosphoenolpyruvate synthase
+1776,slr0303,2,1,15,20,
+1777,slr0305,2,1,15,21,hypothetical protein
+1778,sll0284,2,1,15,22,
+1779,slr0309,2,1,15,23,P-methylase
+1780,sll0281,2,1,15,24,
+1781,slr0232,2,1,16,1,hypothetical protein
+1782,sll0415,2,1,16,2,ABC transporter
+1783,slr0431,2,1,16,3,
+1784,sll0409,2,1,16,4,
+1785,slr0434,2,1,16,5,elongation factor P
+1786,sll0405,2,1,16,6,
+1787,slr0421,2,1,16,7,
+1788,slr0423,2,1,16,8,rare lipoprotein A
+1789,sll0373,2,1,16,9,gamma-glutamyl phosphate reductase
+1790,sll0370,2,1,16,10,carbamoyl-phosphate synthase, pyrimidine-specific,
+1791,slr0191,2,1,16,11,amidase enhancer
+1792,slr0195,2,1,16,12,
+1793,slr0090,2,1,16,13,4-hydroxyphenylpyruvic acid dioxgenase (HPD)
+1794,slr0092,2,1,16,14,hypothetical protein
+1795,slr0498,2,1,16,15,
+1796,sll0488,2,1,16,16,
+1797,sll0484,2,1,16,17,ABC transporter
+1798,slr0505,2,1,16,18,
+1799,slr0789,2,1,16,19,
+1800,sll0797,2,1,16,20,regulatory components of sensory transduction syst
+1801,slr0795,2,1,16,21,
+1802,sll0794,2,1,16,22,mercuric resistance operon regulatory protein/prec
+1803,slr0798,2,1,16,23,cadmium-transporting ATPase
+1804,sll0788,2,1,16,24,
+1805,sll0676,2,1,17,1,
+1806,sll0671,2,1,17,2,magnesium and cobalt transport protein
+1807,slr0710,2,1,17,4,glutamate dehydrogenase (NADP+)
+1808,sll0659,2,1,17,5,
+1809,slr0765,2,1,17,6,
+1810,slr1426,2,1,17,7,recombination protein
+1811,slr1428,2,1,17,8,
+1812,slr1429,2,1,17,9,
+1813,sll1333,2,1,17,10,
+1814,sll1330,2,1,17,11,transcriptional regulatory protein
+1815,slr1451,2,1,17,12,
+1816,sll1542,2,1,17,13,
+1817,slr0449,2,1,17,14,DNR protein
+1818,sll0448,2,1,17,15,
+1819,sll0445,2,1,17,17,
+1820,slr0451,2,1,17,18,antiviral protein
+1821,ssl2789,2,1,17,19,resolvase
+1822,ssr2549,2,1,17,20,
+1823,ssr3570,2,1,17,21,
+1824,ssr2201,2,1,17,22,
+1825,ssl2420,2,1,17,23,
+1826,ssl1520,2,1,17,24,
+1827,slr0032,2,1,18,1,branched-chain amino acid aminotransferase
+1828,sll0036,2,1,18,2,hypothetical protein
+1829,sll0033,2,1,18,3,
+1830,slr0039,2,1,18,4,
+1831,slr0040,2,1,18,5,nitrate transport 45kD protein
+1832,slr0042,2,1,18,6,
+1833,slr0652,2,1,18,7,phosphorybosilformimino-5-amino- phosphorybosil-4-
+1834,slr0653,2,1,18,8,RNA polymerase sigma factor
+1835,slr0655,2,1,18,9,
+1836,slr0657,2,1,18,10,aspartate kinase
+1837,slr0659,2,1,18,11,oligopeptidase A
+1838,sll0626,2,1,18,12,LIM17 protein
+1839,slr1183,2,1,18,13,
+1840,slr1188,2,1,18,14,chloroplast membrane-associated 30 kD protein
+1841,slr0586,2,1,18,15,
+1842,slr0589,2,1,18,16,
+1843,ssl2733,2,1,18,17,
+1844,ssl1326,2,1,18,18,
+1845,ssl1426,2,1,18,20,50S ribosomal protein L35
+1846,ssl0601,2,1,18,21,30S ribosomal protein S21
+1847,ssr0102,2,1,18,22,hypothetical protein
+1848,sml0002,2,1,18,23,photosystem II PsbX protein
+1849,ssl0738,2,1,18,24,
+1850,slr0534,2,1,19,1,soluble lytic transglycosylase
+1851,slr0536,2,1,19,2,uroporphyrinogen decarboxylase
+1852,sll0508,2,1,19,3,
+1853,sll0507,2,1,19,4,magnesium and cobalt transport protein
+1854,sll0505,2,1,19,5,hypothetical protein
+1855,sll0503,2,1,19,6,
+1856,slr1567,2,1,19,7,
+1857,sll1488,2,1,19,8,
+1858,slr1571,2,1,19,9,
+1859,slr1573,2,1,19,10,
+1860,slr1579,2,1,19,11,
+1861,sll1484,2,1,19,12,NADH dehydrogenase
+1862,ssl2923,2,1,19,13,virulence associated protein C
+1863,ssl2920,2,1,19,14,
+1864,ssr2962,2,1,19,15,
+1865,ssr3467,2,1,19,16,
+1866,ssr1720,2,1,19,17,tyrosyl tRNA synthetase
+1867,ssr2318,2,1,19,18,
+1868,ssr1169,2,1,19,20,salt-stress induced hydrophobic peptide
+1869,ssl1255,2,1,19,21,
+1870,ssl2667,2,1,19,22,NifU protein
+1871,ssl2874,2,1,19,23,
+1872,ssr1256,2,1,19,24,
+1873,sll0536,2,1,20,1,
+1874,sll0534,2,1,20,2,ATP-dependent Clp protease proteolytic subunit
+1875,slr0549,2,1,20,3,aspartate beta-semialdehyde dehydrogenese
+1876,slr0551,2,1,20,4,hypothetical protein
+1877,slr0553,2,1,20,5,hypothetical protein
+1878,sll0529,2,1,20,6,
+1879,sll0735,2,1,20,7,
+1880,slr0750,2,1,20,8,protochlorophillide reductase subunit ChlN
+1881,slr0752,2,1,20,9,enolase
+1882,slr0753,2,1,20,10,P protein
+1883,sll0728,2,1,20,11,acetyl-CoA carboxylase alpha subunit
+1884,sll0727,2,1,20,12,
+1885,ssl2245,2,1,20,13,
+1886,ssr2061,2,1,20,14,glutaredoxin 3
+1887,ssl1633,2,1,20,15,CAB/ELIP/HLIP superfamily
+1888,ssl2598,2,1,20,16,photosystem II PsbH protein
+1889,ssl2595,2,1,20,17,
+1890,ssr3184,2,1,20,18,ferredoxin
+1891,slr0724,2,1,20,19,HtaR suppressor protein
+1892,slr2076,2,1,20,20,60kD chaperonin 1
+1893,sll0170,2,1,20,21,DnaK protein
+1894,sll1099,2,1,20,22,protein synthesis elongation factor Tu
+1895,sll0230,2,1,20,23,hypothetical protein
+1896,sll1321,2,1,20,24,hypothetical protein
+1897,sll0939,2,1,21,1,
+1898,sll0931,2,1,21,2,
+1899,slr0978,2,1,21,3,
+1900,slr1611,2,1,21,4,hypothetical protein
+1901,slr1078,2,1,21,6,UDPglucose 4-epimerase
+1902,slr1838,2,1,21,7,carbon dioxide concentrating mechanism protein Ccm
+1903,slr1542,2,1,21,8,hypothetical protein
+1904,sll1455,2,1,21,9,
+1905,slr1219,2,1,21,10,urease accessory protein E
+1906,sll1131,2,1,21,11,
+1907,sll1130,2,1,21,12,
+1908,slr1674,2,1,21,13,
+1909,slr1676,2,1,21,14,
+1910,slr1686,2,1,21,15,
+1911,slr1694,2,1,21,16,activator of photopigment and puc expression
+1912,slr0941,2,1,21,17,
+1913,slr0493,2,1,21,19,phosphomannose isomerase
+1914,sll0690,2,1,21,20,virulence associated protein C
+1915,slr0628,2,1,21,21,30S ribosomal protein S14
+1916,sll0611,2,1,21,22,
+1917,sll0376,2,1,21,23,
+1918,slr0192,2,1,21,24,
+1919,sll1504,2,1,22,1,
+1920,slr1043,2,1,22,2,
+1921,ssl1918,2,1,22,3,
+1922,sll1642,2,1,22,4,
+1923,sll1638,2,1,22,5,
+1924,slr1846,2,1,22,6,hypothetical protein
+1925,sll0871,2,1,22,7,
+1926,slr0890,2,1,22,8,
+1927,slr1406,2,1,22,9,
+1928,sll1769,2,1,22,10,
+1929,slr1876,2,1,22,11,
+1930,sll1765,2,1,22,12,
+1931,sll0419,2,1,22,13,
+1932,sll0269,2,1,22,14,
+1933,slr0284,2,1,22,15,hypothetical protein
+1934,slr0291,2,1,22,16,hypothetical protein
+1935,sll0257,2,1,22,17,hypothetical protein
+1936,sll0364,2,1,22,18,
+1937,slr0572,2,1,22,19,
+1938,slr0581,2,1,22,20,
+1939,sll0832,2,1,22,21,
+1940,slr0846,2,1,22,22,hypothetical protein
+1941,sll0084,2,1,22,23,imidazoleglycerol-phosphate dehydratase / histidin
+1942,slr0080,2,1,22,24,ribonuclease H
+1943,sll1832,2,1,23,1,
+1944,slr1023,2,1,23,2,
+1945,slr1032,2,1,23,3,
+1946,sll0986,2,1,23,4,
+1947,slr1037,2,1,23,5,regulatory components of sensory transduction syst
+1948,sll0981,2,1,23,6,
+1949,slr0868,2,1,23,7,
+1950,sll1160,2,1,23,8,
+1951,ssl2296,2,1,23,9,pterin-4a-carbinolamine dehydratase
+1952,slr1256,2,1,23,10,urease gamma subunit
+1953,sll1957,2,1,23,11,arsenical resistance operon repressor
+1954,slr2092,2,1,23,12,
+1955,ssl1807,2,1,23,13,
+1956,slr0326,2,1,23,14,
+1957,slr0333,2,1,23,15,
+1958,slr0172,2,1,23,16,IMP dehydrogenase
+1959,sll0168,2,1,23,17,
+1960,slr0373,2,1,23,18,
+1961,sll0288,2,1,23,19,septum site-determining protein MinC
+1962,sll0800,2,1,23,20,
+1963,sll0793,2,1,23,21,
+1964,ssl1464,2,1,23,22,
+1965,sll0781,2,1,23,23,
+1966,slr0699,2,1,23,24,
+1967,slr2016,2,1,24,1,
+1968,sll1912,2,1,24,2,
+1969,slr1134,2,1,24,3,
+1970,slr1142,2,1,24,4,
+1971,sll1068,2,1,24,5,
+1972,slr1896,2,1,24,6,hypothetical protein
+1973,sll1262,2,1,24,7,
+1974,sll1250,2,1,24,8,hypothetical protein
+1975,sll1897,2,1,24,9,
+1976,sll1388,2,1,24,10,
+1977,slr1469,2,1,24,11,
+1978,slr1472,2,1,24,12,
+1979,slr0001,2,1,24,13,hypothetical protein
+1980,slr0012,2,1,24,14,ribulose bisphosphate carboxylase small subunit
+1981,slr0016,2,1,24,15,
+1982,slr0217,2,1,24,16,
+1983,slr0231,2,1,24,17,
+1984,ssl0788,2,1,24,18,
+1985,sll0039,2,1,24,19,chemotaxis protein CheY
+1986,slr0038,2,1,24,20,
+1987,sll0525,2,1,24,21,
+1988,slr1425,2,1,24,22,
+1989,sll1340,2,1,24,23,
+1990,sll0629,2,1,24,24,photosystem I subunit X
+1991,slr0455,2,1,25,1,
+1992,slr1178,2,1,25,2,
+1993,slr1184,2,1,25,3,hypothetical protein
+1994,sll0577,2,1,25,4,
+1995,sll0565,2,1,25,5,
+1996,slr0601,2,1,25,6,
+1997,sll0900,2,1,25,7,ATP phosphoribosyltransferase
+1998,sll0898,2,1,25,8,hypothetical protein
+1999,slr0546,2,1,25,9,indole-3-glycerol phosphate synthase
+2000,slr1651,2,1,25,10,haemolysin secretion ATP-binding protein
+2001,slr1653,2,1,25,11,N-acyl-L-amino acid amidohydrolase
+2002,sll1549,2,1,25,12,
+2003,slr0665,2,1,25,13,hypothetical protein
+2004,sll0018,2,1,25,14,fructose-1,6-bisphosphate aldolase
+2005,sll0306,2,1,25,15,RNA polymerase sigma factor
+2006,slr1943,2,1,25,16,dolichol phosphate mannose synthase
+2007,sll0244,2,1,25,17,UDP-glucose 4-epimerase
+2008,slr1495,2,1,25,18,
+2009,sll0172,2,1,25,19,
+2010,slr0899,2,1,25,20,cyanate lyase
+2011,slr2059,2,1,25,21,
+2012,slr0871,2,1,25,22,
+2013,sll0359,2,1,25,23,
+2014,slr2116,2,1,25,24,spore coat polysaccharide biosynthesis protein Sps
+2015,slr0599,2,1,26,1,eukaryotic protein  kinase
+2016,sll0563,2,1,26,2,
+2017,slr0604,2,1,26,3,LepA gene product
+2018,slr0606,2,1,26,4,
+2019,slr0609,2,1,26,5,47 kD protein
+2020,slr0611,2,1,26,6,geranylgeranyl pyrophosphate synthase
+2021,ssl3445,2,1,26,7,50S ribosomal protein L31
+2022,ssl3441,2,1,26,8,initiation factor IF-1
+2023,sll1807,2,1,26,9,50S ribosomal protein L24
+2024,sll1805,2,1,26,10,50S ribosomal protein L16
+2025,slr2071,2,1,26,11,
+2026,sll1965,2,1,26,12,
+2027,slr1776,2,1,26,13,high affinity sulfate transporter
+2028,sll0241,2,1,26,14,
+2029,sll0712,2,1,26,15,cysteine synthase
+2030,slr0210,2,1,26,16,sensory transduction histidine kinase
+2031,slr1347,2,1,26,17,carbonic anhydrase
+2032,slr0749,2,1,26,18,light-independent protochlorophyllide reductase ir
+2033,slr1815,2,1,26,19,
+2034,slr0059,2,1,26,20,
+2035,sll1801,2,1,26,21,50S ribosomal protein L23
+2036,ssl0787,2,1,26,22,
+2037,ssr0761,2,1,26,23,
+2038,ssr0482,2,1,26,24,30S ribosomal protein S16
+2039,sll1653,2,1,27,1,spore germination protein c2
+2040,slr1907,2,1,27,2,
+2041,slr1909,2,1,27,3,regulatory components of sensory transduction syst
+2042,sll1579,2,1,27,4,phycocyanin associated linker protein
+2043,slr1705,2,1,27,5,aspartoacylase, ASP
+2044,sll1572,2,1,27,6,DNA polymerase III alpha subunit
+2045,sll1691,2,1,27,7,
+2046,slr2067,2,1,27,8,allophycocyanin a chain
+2047,ssr3383,2,1,27,9,phycobilisome LC linker polypeptide
+2048,slr1533,2,1,27,10,
+2049,ssl2971,2,1,27,11,
+2050,sll1522,2,1,27,12,CDP-diacylglycerol--glycerol-3-phosphate 3-phospha
+2051,slr1442,2,1,27,13,
+2052,slr0229,2,1,27,14,3-hydroxyisobutyrate dehydrogenase
+2053,slr1657,2,1,27,15,PleD gene product
+2054,slr1723,2,1,27,17,lactose transport system permease protein LacG
+2055,slr0526,2,1,27,18,alpha-ketopantoate hydroxymethyl transferase
+2056,sll0404,2,1,27,19,glycolate oxidase subunit GlcD
+2057,sll0757,2,1,27,20,amidophosphoribosyltransferase
+2058,sll0813,2,1,27,21,cytochrome c oxidase subunit II
+2059,sll1308,2,1,27,22,hypothetical protein
+2060,slr0015,2,1,27,23,lipid A disaccharide synthase
+2061,slr0053,2,1,27,24,hypothetical protein
+2062,slr1208,2,1,28,1,short-chain alcohol dehydrogenase family
+2063,slr2070,2,1,28,2,
+2064,sll1968,2,1,28,3,
+2065,slr2072,2,1,28,4,L-threonine deaminase
+2066,slr2077,2,1,28,5,hypothetical protein
+2067,sll1730,2,1,28,6,
+2068,ssr1562,2,1,28,7,
+2069,sll0896,2,1,28,8,
+2070,slr1655,2,1,28,9,photosystem I subunit XI
+2071,slr1659,2,1,28,10,
+2072,sll0207,2,1,28,11,glucose-1-phosphate thymidylyltransferase
+2073,sll1254,2,1,28,12,hemolysin
+2074,sll0208,2,1,28,13,
+2075,sll1223,2,1,28,14,hydrogenase subunit
+2076,sll0625,2,1,28,15,
+2077,slr0236,2,1,28,16,
+2078,slr1546,2,1,28,17,
+2079,slr0458,2,1,28,18,
+2080,slr0924,2,1,28,19,
+2081,slr1081,2,1,28,20,
+2082,slr1743,2,1,28,21,NADH dehydrogenase
+2083,slr2018,2,1,28,22,
+2084,slr2094,2,1,28,23,GlpX protein
+2085,sll1666,2,1,28,24,DnaJ protein
+2086,slr1862,2,1,29,1,
+2087,slr1888,2,1,29,2,hypothetical protein
+2088,sll2015,2,1,29,3,
+2089,sll2013,2,1,29,4,hypothetical protein
+2090,sll2010,2,1,29,5,UDP-N-acetylmuramoylalanine--D-glutamate ligase
+2091,sll2008,2,1,29,6,processing protease
+2092,sll0058,2,1,29,19,DnaK protein
+2093,sll0689,2,1,29,20,NaH-antiporter protein
+2094,sll0541,2,1,29,21,acyl-CoA desaturase 1
+2095,slr0093,2,1,29,22,DnaJ protein
+2096,sll0038,2,1,29,23,chemotaxis protein CheY
+2097,sll0430,2,1,29,24,heat shock protein
+2098,slr1820,2,1,30,1,
+2099,slr1821,2,1,30,2,hypothetical protein
+2100,sll0851,2,1,30,3,photosystem II 44kD reaction center protein
+2101,slr2060,2,1,30,4,
+2102,sll1954,2,1,30,5,
+2103,sll1950,2,1,30,6,
+2104,sll0166,2,1,30,19,uroporphyrin-III synthase
+2105,slr0479,2,1,30,20,
+2106,ssr2153,2,1,30,21,
+2107,ssr2016,2,1,30,22,
+2108,ssl2717,2,1,30,23,
+2109,ssr0336,2,1,30,24,
+2110,sll1553,2,1,31,1,phenylalanyl-tRNA synthetase
+2111,sll0920,2,1,31,2,phosphoenolpyruvate carboxylase
+2112,slr1643,2,1,31,3,ferredoxin-NADP oxidoreductase
+2113,slr1644,2,1,31,4,
+2114,slr1647,2,1,31,5,
+2115,slr1649,2,1,31,6,hypothetical protein
+2116,sll1605,2,1,31,19,(3R)-hydroxymyristol acyl carrier protein dehydras
+2117,sll0248,2,1,31,20,flavodoxin
+2118,slr1339,2,1,31,21,
+2119,slr0392,2,1,31,22,
+2120,sll0403,2,1,31,23,
+2121,sll0522,2,1,31,24,NADH dehydrogenase subunit 5
+2122,slr1945,2,1,32,1,2,3-bisphosphoglycerate-independent phosphoglycera
+2123,sll1841,2,1,32,2,dihydrolipoamide acetyltransferase component (E2)
+2124,slr1950,2,1,32,3,cation-transporting P-type ATPase
+2125,slr0783,2,1,32,4,triosephosphate isomerase
+2126,slr0341,2,1,32,5,
+2127,slr0427,2,1,32,6,hypothetical protein
+2128,sll1819,2,1,32,19,50S ribosomal protein L17
+2129,slr2075,2,1,32,20,10kD chaperonin
+2130,sml0008,2,1,32,21,photosystem I subunit IX
+2131,sll1746,2,1,32,22,50S ribosomal protein L12
+2132,sll1742,2,1,32,23,transcription antitermination protein NusG
+2133,sll1205,2,2,1,1,regulatory protein PchR
+2134,sll1409,2,2,1,2,ferrichrome-iron receptor
+2135,sll1407,2,2,1,3,
+2136,sll1404,2,2,1,4,biopolymer transport ExbB protein
+2137,slr1485,2,2,1,5,
+2138,slr1489,2,2,1,6,regulatory protein PchR
+2139,sll1318,2,2,1,7,
+2140,sll1040,2,2,1,8,
+2141,slr1094,2,2,1,9,
+2142,slr1095,2,2,1,10,
+2143,slr1098,2,2,1,11,
+2144,slr1103,2,2,1,12,hypothetical protein
+2145,sll0923,2,2,1,13,exopolysaccharide export protein
+2146,slr0977,2,2,1,14,ABC transporter
+2147,slr0982,2,2,1,15,ABC transporter
+2148,slr0984,2,2,1,16,CDP-glucose 4,6-dehydratase
+2149,slr1610,2,2,1,17,hypothetical protein
+2150,slr1613,2,2,1,18,
+2151,slr1699,2,2,1,19,
+2152,sll1582,2,2,1,20,
+2153,slr1702,2,2,1,21,
+2154,slr1704,2,2,1,22,
+2155,slr2005,2,2,1,23,
+2156,slr2007,2,2,1,24,NADH dehydrogenase subunit 4
+2157,slr1113,2,2,2,1,ABC transporter
+2158,slr1115,2,2,2,2,
+2159,sll1064,2,2,2,3,
+2160,sll1063,2,2,2,4,
+2161,slr1120,2,2,2,5,type 4 prepilin peptidase
+2162,sll1058,2,2,2,6,dihydrodipicolinate reductase
+2163,slr1774,2,2,2,7,
+2164,sll1683,2,2,2,8,lysine decarboxylase
+2165,slr1779,2,2,2,9,pyridoxal phosphate biosynthetic protein PdxJ
+2166,sll1680,2,2,2,10,hypothetical protein
+2167,slr1783,2,2,2,11,regulatory components of sensory transduction syst
+2168,sll1678,2,2,2,12,spore maturation protein A
+2169,slr1073,2,2,2,13,
+2170,slr1076,2,2,2,14,
+2171,slr1083,2,2,2,15,
+2172,slr1087,2,2,2,16,
+2173,sll1022,2,2,2,17,
+2174,sll1020,2,2,2,18,
+2175,sll1915,2,2,2,19,
+2176,sll1913,2,2,2,20,
+2177,slr2031,2,2,2,21,sigma factor SibG regulation protein RsbU
+2178,sll1084,2,2,2,22,
+2179,slr1137,2,2,2,23,cytochrome c oxidase subunit I
+2180,slr1140,2,2,2,24,3-amino-5-hydroxybenzoic acid synthase
+2181,sll0711,2,2,3,1,hypothetical protein
+2182,sll0709,2,2,3,2,2nd component required for LlaI restriction activi
+2183,slr0727,2,2,3,3,
+2184,sll0704,2,2,3,4,NifS protein
+2185,slr0733,2,2,3,5,integrase-recombinase protein
+2186,sll0696,2,2,3,6,
+2187,slr1795,2,2,3,7,peptide methionine sulfoxide reductase
+2188,slr1796,2,2,3,8,
+2189,sll1664,2,2,3,9,
+2190,sll1662,2,2,3,10,chorismate mutase /prephenate dehydratase
+2191,slr1290,2,2,3,11,
+2192,sll1200,2,2,3,12,
+2193,sll0649,2,2,3,13,regulatory components of sensory transduction syst
+2194,sll0647,2,2,3,14,
+2195,sll0645,2,2,3,15,
+2196,sll0643,2,2,3,16,urease accessory protein G
+2197,sll0641,2,2,3,17,
+2198,slr0688,2,2,3,18,
+2199,sll1823,2,2,3,19,adenylosuccinate synthetase
+2200,slr1898,2,2,3,20,N-acetylglutamate kinase
+2201,slr1900,2,2,3,21,
+2202,sll1789,2,2,3,22,RNA polymerase beta prime subunit
+2203,sll1124,2,2,3,23,sensory transduction histidine kinase
+2204,sll1121,2,2,3,24,
+2205,sll0225,2,2,4,1,
+2206,slr0251,2,2,4,2,ABC transporter
+2207,sll0222,2,2,4,3,alkaline phosphatase
+2208,sll0221,2,2,4,4,bacterioferritin comigratory protein
+2209,sll0219,2,2,4,5,potential FMN-protein
+2210,sll0217,2,2,4,6,potential FMN-protein
+2211,sll1187,2,2,4,7,prolipoprotein diacylglyceryl transferase
+2212,sll1185,2,2,4,8,coproporphyrinogen III oxidase
+2213,slr1307,2,2,4,9,
+2214,sll0943,2,2,4,10,
+2215,slr0964,2,2,4,11,hypothetical protein
+2216,slr0966,2,2,4,12,tryptophan synthase alpha chain
+2217,slr1598,2,2,4,13,lipoic acid synthetase
+2218,sll1510,2,2,4,14,
+2219,sll1508,2,2,4,15,UDP-3-0-acyl N-acetylglcosamine deacetylase
+2220,sll1502,2,2,4,16,glutamate synthase (ferredoxin)
+2221,sll1501,2,2,4,17,cobyrinic acid a,c-diamide synthase
+2222,slr1609,2,2,4,18,long-chain-fatty-acid CoA ligase
+2223,slr1216,2,2,4,19,Mg2+ transporter
+2224,sll1739,2,2,4,20,
+2225,slr1829,2,2,4,21,
+2226,sll1734,2,2,4,22,
+2227,sll1732,2,2,4,23,NADH dehydrogenase subunit 5
+2228,sll1725,2,2,4,24,ABC transporter
+2229,sll1006,2,2,5,1,
+2230,sll1004,2,2,5,2,
+2231,sll1002,2,2,5,3,hypothetical protein
+2232,slr1753,2,2,5,4,
+2233,slr1759,2,2,5,5,sensory transduction histidine kinase
+2234,sll1643,2,2,5,6,
+2235,slr1545,2,2,5,7,RNA polymerase sigma-E factor
+2236,sll1464,2,2,5,8,hypothetical protein
+2237,sll1462,2,2,5,9,hydrogenase expression/formation protein HypE
+2238,sll1459,2,2,5,10,hypothetical protein
+2239,slr1550,2,2,5,11,lysyl-tRNA synthetase
+2240,sll1456,2,2,5,12,
+2241,slr0889,2,2,5,13,ABC1-like
+2242,slr0891,2,2,5,14,N-acetylmuramoyl-L-alanine amidase
+2243,sll1317,2,2,5,15,apocytochrome f
+2244,sll1315,2,2,5,16,
+2245,slr1403,2,2,5,17,
+2246,slr1409,2,2,5,18,beta transducin-like protein
+2247,sll1162,2,2,5,19,
+2248,sll1159,2,2,5,20,
+2249,slr1246,2,2,5,21,transposase
+2250,slr1247,2,2,5,22,periplasmic phosphate binding protein
+2251,slr1250,2,2,5,23,phosphate transport ATP-binding protein PstB
+2252,sll1150,2,2,5,24,
+2253,sll1945,2,2,6,1,hypothetical protein
+2254,slr2035,2,2,6,2,glutamate 5-kinase
+2255,slr2038,2,2,6,3,
+2256,slr2042,2,2,6,4,
+2257,sll1938,2,2,6,5,
+2258,slr2044,2,2,6,6,ABC transporter
+2259,sll1143,2,2,6,7,DNA helicase II
+2260,slr1224,2,2,6,8,cytoplasmic membrane protein for maltose uptake
+2261,sll1138,2,2,6,9,
+2262,slr1227,2,2,6,10,chloroplast import-associated channel IAP75
+2263,slr1229,2,2,6,11,hypothetical protein
+2264,sll1135,2,2,6,12,
+2265,sll1772,2,2,6,13,DNA mismatch repair protein MutS
+2266,sll1770,2,2,6,14,ABC1-like
+2267,slr1874,2,2,6,15,D-alanine:D-alanine ligase-related protein
+2268,slr1878,2,2,6,16,phycocyanin alpha phycocyanobilin lyase CpcE
+2269,slr1879,2,2,6,17,S-adenosyl-methionine: precorrin-2 methyltransfera
+2270,sll1760,2,2,6,18,homoserine kinase
+2271,sll1908,2,2,6,19,phosphoglycerate dehydrogenase
+2272,slr1991,2,2,6,20,adenylate cyclase
+2273,sll1906,2,2,6,21,428 aa (44.5 kD) bacteriochlorophyll synthase subu
+2274,slr2000,2,2,6,22,hypothetical protein
+2275,slr2002,2,2,6,23,
+2276,sll1902,2,2,6,24,hypothetical protein
+2277,slr1918,2,2,7,1,
+2278,sll1831,2,2,7,2,glycolate oxidase subunit, (Fe-S)protein
+2279,slr1919,2,2,7,3,ABC1-like
+2280,sll0998,2,2,7,4,LysR transcriptional regulator
+2281,sll0997,2,2,7,5,
+2282,slr1020,2,2,7,6,sulfolipid biosynthesis protein SqdB
+2283,slr1438,2,2,7,7,
+2284,sll1360,2,2,7,8,DNA polymerase III subunit
+2285,sll1358,2,2,7,9,
+2286,sll1355,2,2,7,10,hypothetical protein
+2287,slr1444,2,2,7,11,
+2288,sll1353,2,2,7,12,sensory transduction histidine kinase
+2289,slr1808,2,2,7,13,transfer RNA-Gln reductase
+2290,sll1699,2,2,7,14,oligopeptide transport system permease protein
+2291,slr1816,2,2,7,15,
+2292,sll1628,2,2,7,16,
+2293,slr1735,2,2,7,17,ABC transporter
+2294,sll1625,2,2,7,18,succinate dehydrogenase iron- sulphur protein subu
+2295,sll1599,2,2,7,19,Mn transporter MntA
+2296,slr1726,2,2,7,20,
+2297,sll1592,2,2,7,21,regulatory components of sensory transduction syst
+2298,slr1729,2,2,7,22,potassium-transporting ATPase B chain
+2299,sll1586,2,2,7,23,
+2300,slr0260,2,2,7,24,cob(I)alamin adenosyltransferase
+2301,sll0980,2,2,8,1,
+2302,slr1377,2,2,8,2,leader peptidase I
+2303,slr1379,2,2,8,3,cytochrome oxidase d subunit I
+2304,sll1300,2,2,8,4,hypothetical protein
+2305,sll1298,2,2,8,5,dienelactone hydrolase
+2306,sll1297,2,2,8,6,phenoxybenzoate dioxygenase
+2307,sll1272,2,2,8,7,
+2308,sll1270,2,2,8,8,glutamine-binding periplasmic protein/glutamine tr
+2309,slr1368,2,2,8,9,precorrin decarbocylase
+2310,sll1268,2,2,8,10,
+2311,sll1265,2,2,8,11,
+2312,sll0875,2,2,8,12,
+2313,sll0858,2,2,8,13,
+2314,sll0855,2,2,8,14,hypothetical protein
+2315,sll0853,2,2,8,15,
+2316,slr0861,2,2,8,16,glycinamide ribonucleotide transformylase
+2317,slr0863,2,2,8,17,hypothetical protein
+2318,sll0843,2,2,8,18,
+2319,sll0242,2,2,8,19,
+2320,sll0238,2,2,8,20,
+2321,slr2081,2,2,8,21,prephenate dehydrogenase
+2322,slr2083,2,2,8,22,cytochrome c oxidase subunit III
+2323,sll1988,2,2,8,23,hypothetical protein
+2324,slr2088,2,2,8,24,acetohydroxy acid synthase
+2325,slr1503,2,2,9,1,
+2326,sll1425,2,2,9,2,proline-tRNA ligase
+2327,sll1424,2,2,9,3,hypothetical protein
+2328,slr1506,2,2,9,4,
+2329,slr1508,2,2,9,5,
+2330,slr1511,2,2,9,6,beta-ketoacyl-acyl carrier protein synthase III
+2331,sll1900,2,2,9,7,acetyltransferase
+2332,sll1898,2,2,9,8,
+2333,slr1962,2,2,9,9,
+2334,sll1894,2,2,9,10,GTP cyclohydrolase II
+2335,sll1892,2,2,9,11,
+2336,sll1891,2,2,9,12,
+2337,sll1566,2,2,9,13,alpha,alpha-trehalose-phosphate synthase
+2338,slr1672,2,2,9,14,glycerol kinase
+2339,slr1677,2,2,9,15,
+2340,sll1564,2,2,9,16,alpha-isopropylmalate synthase
+2341,sll1561,2,2,9,17,delta-1-pyrroline-5-carboxylate dehydrogenase
+2342,sll1559,2,2,9,18,soluble hydrogenase 42 kD subunit
+2343,slr0402,2,2,9,19,hypothetical protein
+2344,sll0356,2,2,9,20,5'-phosphoribosyl anthranilate isomerase
+2345,slr0406,2,2,9,21,dihydroorotase
+2346,slr0408,2,2,9,22,
+2347,slr0143,2,2,9,23,beta transducin-like protein
+2348,slr0147,2,2,9,24,
+2349,slr2114,2,2,10,1,spore coat polysaccharide biosynthesis protein Sps
+2350,slr2118,2,2,10,2,
+2351,slr2120,2,2,10,3,
+2352,slr2123,2,2,10,4,D-isomer specific 2-hydroxyacid dehydrogenase fami
+2353,slr2125,2,2,10,5,
+2354,slr2127,2,2,10,6,
+2355,sll1868,2,2,10,7,DNA primase
+2356,sll1866,2,2,10,8,hypothetical protein
+2357,sll1389,2,2,10,9,
+2358,slr1467,2,2,10,10,
+2359,sll1384,2,2,10,11,
+2360,slr1474,2,2,10,12,
+2361,sll0916,2,2,10,13,precorrin isomerase
+2362,slr0942,2,2,10,14,aldehyde reductase
+2363,sll0914,2,2,10,15,
+2364,slr0945,2,2,10,16,
+2365,slr0948,2,2,10,17,
+2366,sll0912,2,2,10,18,ABC transporter
+2367,slr0163,2,2,10,19,pilin biogenesis protein
+2368,slr1923,2,2,10,20,hypothetical protein
+2369,sll1865,2,2,10,21,peptide chain release factor
+2370,slr1926,2,2,10,22,
+2371,slr1928,2,2,10,23,
+2372,slr1930,2,2,10,24,
+2373,sll1229,2,2,11,1,regulatory components of sensory transduction syst
+2374,slr1329,2,2,11,2,ATP synthase b subunit
+2375,slr1332,2,2,11,3,beta ketoacyl-acyl carrier protein synthase
+2376,sll1224,2,2,11,4,hydrogenase small subunit
+2377,sll1221,2,2,11,5,hydrogenase subunit
+2378,slr1334,2,2,11,6,
+2379,slr1266,2,2,11,7,
+2380,slr1276,2,2,11,8,
+2381,sll1174,2,2,11,9,
+2382,slr1278,2,2,11,10,hypothetical protein
+2383,slr1280,2,2,11,11,NADH-ubiquinone oxidoreductase subunit PsbG
+2384,sll1170,2,2,11,12,hypothetical protein
+2385,slr1622,2,2,11,13,inorganic pyrophosphatase
+2386,sll1538,2,2,11,14,beta-glucosidase
+2387,sll1536,2,2,11,15,molybdopterin biosynthesis MoeB protein
+2388,sll1535,2,2,11,16,galactosyl-1-phosphate transferase
+2389,sll1532,2,2,11,17,
+2390,sll1528,2,2,11,18,
+2391,sll0300,2,2,11,19,riboflavin synthase alpha chain
+2392,sll0298,2,2,11,20,
+2393,sll0296,2,2,11,21,unidentified open reading frame
+2394,slr0335,2,2,11,22,phycobilisome LCM core-membrane linker polypeptide
+2395,sll0294,2,2,11,23,
+2396,slr0338,2,2,11,24,
+2397,slr0817,2,2,12,1,isochorismate synthase
+2398,slr0819,2,2,12,2,apolipoprotein N-acyltransferase
+2399,sll0807,2,2,12,3,pentose-5-phosphate-3-epimerase
+2400,slr0823,2,2,12,4,hypothetical protein
+2401,sll1263,2,2,12,5,hypothetical protein
+2402,sll1260,2,2,12,6,30S ribosomal protein S2
+2403,sll1435,2,2,12,7,PET112 protein
+2404,sll1433,2,2,12,8,hypothetical protein
+2405,sll1103,2,2,12,9,hypothetical protein
+2406,sll1098,2,2,12,10,elongation factor EF-G
+2407,slr1159,2,2,12,11,glycinamide ribonucleotide synthetase
+2408,slr1161,2,2,12,12,
+2409,sll0271,2,2,12,13,N utilization substance protein B
+2410,sll0270,2,2,12,14,primosomal protein N'
+2411,sll0266,2,2,12,15,
+2412,sll0264,2,2,12,16,
+2413,sll0261,2,2,12,17,
+2414,slr0286,2,2,12,18,
+2415,sll0158,2,2,12,19,1,4-alpha-glucan branching enzyme
+2416,sll0156,2,2,12,20,
+2417,slr0185,2,2,12,21,uridine 5'-monophosphate synthase
+2418,slr0359,2,2,12,22,hypothetical protein
+2419,slr0361,2,2,12,23,hypothetical protein
+2420,slr0363,2,2,12,24,
+2421,slr0386,2,2,13,1,
+2422,slr0388,2,2,13,2,
+2423,slr0772,2,2,13,3,protochlorophyllide reductase ChlB subunit
+2424,sll0771,2,2,13,4,glucose transport protein
+2425,slr0775,2,2,13,5,protein-export membrane protein SecF
+2426,sll0766,2,2,13,6,RadC protein
+2427,slr0063,2,2,13,8,general secretion pathway protein E
+2428,slr0066,2,2,13,9,riboflavin biosynthesis protein
+2429,slr0067,2,2,13,10,put. ATPase
+2430,slr0069,2,2,13,11,hypothetical protein
+2431,slr0467,2,2,13,12,high-affinity branched-chain amino acid transport
+2432,slr0901,2,2,13,13,molybdenum cofactor biosynthesis protein A
+2433,slr0904,2,2,13,14,hypothetical protein
+2434,slr0906,2,2,13,15,photosystem II P680 chlorophyll A apoprotein
+2435,slr0909,2,2,13,16,
+2436,slr0913,2,2,13,17,
+2437,slr0917,2,2,13,18,7-keto-8-aminopelargonic acid synthetase
+2438,sll0469,2,2,13,19,ribose-phosphate pyrophosphokinase
+2439,sll0597,2,2,13,21,hypothetical protein
+2440,sll0594,2,2,13,22,transcriptional regulatory protein
+2441,slr0615,2,2,13,23,ABC transporter
+2442,slr0617,2,2,13,24,
+2443,slr0346,2,2,14,1,ribonuclease III
+2444,sll0321,2,2,14,2,
+2445,sll0320,2,2,14,3,ribonuclease D
+2446,sll0318,2,2,14,4,
+2447,slr0354,2,2,14,5,ABC transporter
+2448,slr0357,2,2,14,6,histidyl-tRNA synthetase
+2449,sll0454,2,2,14,7,phenylalanyl-tRNA synthetase alpha chain
+2450,sll0688,2,2,14,8,
+2451,sll0686,2,2,14,9,
+2452,sll0683,2,2,14,10,phosphate transport ATP-binding protein PstB
+2453,sll0681,2,2,14,11,phosphate transport system permease protein PstC
+2454,sll0679,2,2,14,12,SphX protein precursor
+2455,sll0544,2,2,14,13,
+2456,slr0575,2,2,14,14,
+2457,slr0580,2,2,14,15,hypothetical protein
+2458,sll0539,2,2,14,16,
+2459,slr0825,2,2,14,17,hypothetical protein
+2460,slr0829,2,2,14,18,PleD gene product
+2461,sll0102,2,2,14,19,
+2462,slr0106,2,2,14,20,
+2463,sll0099,2,2,14,21,precorrin-6y methylase
+2464,slr0108,2,2,14,22,
+2465,sll0095,2,2,14,23,ABC1-like
+2466,slr0110,2,2,14,24,hypothetical protein
+2467,slr0013,2,2,15,1,
+2468,slr0018,2,2,15,2,fumarase
+2469,sll0007,2,2,15,3,hypothetical protein
+2470,sll0005,2,2,15,4,ABC1-like
+2471,slr0021,2,2,15,5,protease IV
+2472,slr0213,2,2,15,6,GMP synthetase
+2473,slr0642,2,2,15,7,integral membrane protein
+2474,sll0606,2,2,15,8,
+2475,sll0602,2,2,15,9,
+2476,slr0646,2,2,15,10,penicillin-binding protein 4
+2477,slr0650,2,2,15,11,hypothetical protein
+2478,sll0397,2,2,15,12,
+2479,sll0825,2,2,15,13,polyA polymerase
+2480,slr0845,2,2,15,14,
+2481,sll0821,2,2,15,15,hypothetical protein
+2482,slr0072,2,2,15,16,glucose inhibited division protein B
+2483,slr0074,2,2,15,17,ABC transporter subunit
+2484,slr0076,2,2,15,18,hypothetical protein
+2485,slr0302,2,2,15,19,PleD gene product
+2486,slr0304,2,2,15,20,
+2487,slr0306,2,2,15,21,
+2488,sll0283,2,2,15,22,
+2489,sll0282,2,2,15,23,
+2490,sll0280,2,2,15,24,
+2491,sll0191,2,2,16,1,
+2492,sll0414,2,2,16,2,hypothetical protein
+2493,sll0412,2,2,16,3,
+2494,sll0408,2,2,16,4,
+2495,slr0436,2,2,16,5,carbon dioxide concentrating mechanism protein Ccm
+2496,slr0439,2,2,16,6,
+2497,sll0377,2,2,16,7,transcription-repair coupling factor
+2498,sll0374,2,2,16,8,high-affinity branched-chain amino acid transport
+2499,sll0371,2,2,16,9,
+2500,sll0368,2,2,16,10,pyrimidine operon regulatory protein PyrR
+2501,slr0194,2,2,16,11,ribose 5-phosphate isomerase
+2502,slr0197,2,2,16,12,comE ORF1
+2503,slr0091,2,2,16,13,aldehyde dehydrogenase
+2504,slr0095,2,2,16,14,O-methyltransferase
+2505,sll0489,2,2,16,15,ABC transporter
+2506,sll0487,2,2,16,16,hypothetical protein
+2507,slr0503,2,2,16,17,hypothetical protein
+2508,slr0506,2,2,16,18,protochlorophyllide oxido-reductase
+2509,sll0798,2,2,16,19,sensory transduction histidine kinase
+2510,slr0793,2,2,16,20,
+2511,slr0796,2,2,16,21,nickel resistance
+2512,slr0797,2,2,16,22,cadmium-transporting ATPase
+2513,sll0789,2,2,16,23,regulatory components of sensory transduction syst
+2514,sll0787,2,2,16,24,
+2515,sll0672,2,2,17,1,cation-transporting ATPase PacL
+2516,slr0708,2,2,17,2,
+2517,sll0664,2,2,17,3,
+2518,slr0712,2,2,17,4,
+2519,sll0657,2,2,17,5,phospho-N-acetylmuramoyl-pentapeptide-transferase
+2520,sll0745,2,2,17,6,phosphofructokinase
+2521,sll1336,2,2,17,7,hypothetical protein
+2522,sll1334,2,2,17,8,
+2523,slr1431,2,2,17,10,
+2524,sll1329,2,2,17,11,monophosphatase
+2525,slr1452,2,2,17,12,sulfate binding protein SbpA
+2526,sll0450,2,2,17,13,cytochrome b subunit of nitric oxide reductase
+2527,sll0449,2,2,17,14,
+2528,sll0447,2,2,17,15,
+2529,sll0446,2,2,17,16,
+2530,sll0443,2,2,17,17,
+2531,sll0441,2,2,17,18,
+2532,ssl2781,2,2,17,19,
+2533,ssr2551,2,2,17,20,
+2534,ssr2194,2,2,17,21,
+2535,ssr1375,2,2,17,23,
+2536,ssr1386,2,2,17,24,inorganic carbon transport protein
+2537,sll0037,2,2,18,1,
+2538,slr0036,2,2,18,2,aspartate aminotransferase
+2539,sll0031,2,2,18,3,
+2540,sll0030,2,2,18,4,rubisco operon transcriptional regulator
+2541,slr0041,2,2,18,5,nitrate transport protein NrtB
+2542,slr0043,2,2,18,6,nitrate transport protein NrtC
+2543,sll0631,2,2,18,7,L-aspartate oxidase
+2544,slr0654,2,2,18,8,
+2545,slr0656,2,2,18,9,
+2546,slr0658,2,2,18,10,
+2547,slr0661,2,2,18,11,pyrroline carboxylate reductase
+2548,sll0622,2,2,18,12,quinolinate synthetase
+2549,slr1185,2,2,18,13,cytochrome b6/f-complex iron-sulfur protein
+2550,slr1189,2,2,18,14,
+2551,sll0578,2,2,18,15,phosphoribosyl aminoimidazole carboxylase
+2552,slr0590,2,2,18,16,
+2553,ssl2069,2,2,18,17,
+2554,ssr0390,2,2,18,18,photosystem I subunit X
+2555,sml0001,2,2,18,19,photosystem II PsbI protein
+2556,ssl1417,2,2,18,20,ycf33 gene product
+2557,ssr0349,2,2,18,21,
+2558,ssr0109,2,2,18,22,
+2559,ssl0750,2,2,18,23,
+2560,ssl0352,2,2,18,24,
+2561,slr0535,2,2,19,1,serine proteinase
+2562,sll0509,2,2,19,2,Ap-4-A phosphorylase II
+2563,slr0537,2,2,19,3,
+2564,sll0506,2,2,19,4,hypothetical protein
+2565,sll0504,2,2,19,5,diaminopimelate decarboxylase
+2566,sll0502,2,2,19,6,arginyl-tRNA-synthetase
+2567,sll1489,2,2,19,7,
+2568,slr1570,2,2,19,8,
+2569,slr1572,2,2,19,9,
+2570,slr1575,2,2,19,10,hypothetical protein
+2571,sll1486,2,2,19,11,
+2572,sll1483,2,2,19,12,transforming growth factor induced protein
+2573,ssl2922,2,2,19,13,virulence associated protein B
+2574,ssr2708,2,2,19,14,
+2575,ssr3122,2,2,19,15,hypothetical protein
+2576,ssl1911,2,2,19,16,
+2577,ssr2317,2,2,19,17,
+2578,ssl2542,2,2,19,18,high light-inducible protein
+2579,ssl0511,2,2,19,19,
+2580,ssl1263,2,2,19,20,
+2581,ssl1004,2,2,19,21,hypothetical protein
+2582,ssr1114,2,2,19,22,
+2583,ssl1378,2,2,19,23,
+2584,ssr2781,2,2,19,24,
+2585,sll0535,2,2,20,1,ATP-dependent protease ATPase subunit
+2586,sll0533,2,2,20,2,trigger factor
+2587,slr0550,2,2,20,3,dihydrodipicolinate synthase
+2588,slr0552,2,2,20,4,
+2589,slr0554,2,2,20,5,hypothetical protein
+2590,sll0528,2,2,20,6,
+2591,slr0748,2,2,20,7,
+2592,slr0751,2,2,20,8,
+2593,sll0732,2,2,20,9,
+2594,sll0729,2,2,20,10,
+2595,slr0755,2,2,20,11,hypothetical protein
+2596,sll0726,2,2,20,12,phosphoglucomutase
+2597,ssr2060,2,2,20,13,
+2598,ssr2062,2,2,20,14,
+2599,ssr1499,2,2,20,15,ABC1-like
+2600,smr0009,2,2,20,16,photosystem II PsbN protein
+2601,ssl3382,2,2,20,17,
+2602,ssr3188,2,2,20,18,
+2603,slr0725,2,2,20,19,hypothetical protein
+2604,slr0732,2,2,20,20,hypothetical protein
+2605,slr0737,2,2,20,21,photosystem I subunit II
+2606,slr0242,2,2,20,22,bacterioferritin comigratory protein
+2607,sll1323,2,2,20,23,ATP synthase subunit b'
+2608,slr1417,2,2,20,24,hypothetical protein
+2609,sll0933,2,2,21,1,
+2610,sll0922,2,2,21,2,
+2611,slr0980,2,2,21,3,hypothetical protein
+2612,slr1614,2,2,21,4,
+2613,slr1062,2,2,21,5,
+2614,slr1079,2,2,21,6,
+2615,slr1839,2,2,21,7,carbon dioxide concentrating mechanism protein Ccm
+2616,slr1544,2,2,21,8,
+2617,slr1218,2,2,21,9,
+2618,slr1234,2,2,21,10,protein kinase C inhibitor
+2619,slr1241,2,2,21,12,
+2620,slr1675,2,2,21,13,hydrogenase expression/formation protein HypA
+2621,sll1562,2,2,21,14,
+2622,ssl3044,2,2,21,15,hydrogenase component
+2623,slr0935,2,2,21,16,
+2624,slr0946,2,2,21,17,arsenate reductase
+2625,slr0954,2,2,21,18,hypothetical protein
+2626,slr0496,2,2,21,19,
+2627,sll0685,2,2,21,20,
+2628,sll0614,2,2,21,21,
+2629,slr0416,2,2,21,22,
+2630,sll0369,2,2,21,23,
+2631,slr1042,2,2,22,1,regulatory components of sensory transduction syst
+2632,slr1046,2,2,22,2,
+2633,sll1647,2,2,22,3,
+2634,slr1767,2,2,22,4,
+2635,slr1770,2,2,22,5,
+2636,slr1847,2,2,22,6,hypothetical protein
+2637,slr0885,2,2,22,7,
+2638,sll0864,2,2,22,8,
+2639,sll1307,2,2,22,9,
+2640,ssl3379,2,2,22,10,
+2641,sll1767,2,2,22,11,30S ribosomal protein S6
+2642,sll1763,2,2,22,12,
+2643,sll0272,2,2,22,13,
+2644,sll0268,2,2,22,14,
+2645,slr0287,2,2,22,15,
+2646,sll0258,2,2,22,16,cytochrome c550
+2647,slr0294,2,2,22,17,
+2648,sll0361,2,2,22,18,
+2649,sll0543,2,2,22,19,
+2650,slr0582,2,2,22,20,
+2651,sll0822,2,2,22,21,
+2652,slr0847,2,2,22,22,KdtB protein
+2653,slr0078,2,2,22,23,hypothetical protein
+2654,sll0486,2,2,22,24,
+2655,ssr1698,2,2,23,1,hypothetical protein
+2656,slr1025,2,2,23,2,
+2657,slr1034,2,2,23,3,
+2658,sll0984,2,2,23,4,
+2659,sll0982,2,2,23,5,
+2660,slr1376,2,2,23,6,
+2661,slr0870,2,2,23,7,
+2662,sll1157,2,2,23,8,
+2663,sll1147,2,2,23,9,
+2664,sll1960,2,2,23,10,
+2665,slr2080,2,2,23,11,
+2666,sll1979,2,2,23,12,
+2667,sll0944,2,2,23,13,
+2668,slr0328,2,2,23,14,low molecular weight phosphotyrosine protein phosp
+2669,slr0334,2,2,23,15,
+2670,sll0176,2,2,23,16,
+2671,sll0167,2,2,23,17,
+2672,slr0376,2,2,23,18,
+2673,sll0286,2,2,23,19,hypothetical protein
+2674,slr0790,2,2,23,20,UmuC protein
+2675,sll0792,2,2,23,21,transcriptional repressor SmtB
+2676,sll0783,2,2,23,22,
+2677,sll0780,2,2,23,23,
+2678,slr0701,2,2,23,24,mercuric resistance operon regulatory protein
+2679,slr2025,2,2,24,1,
+2680,sll1911,2,2,24,2,
+2681,sll1078,2,2,24,3,
+2682,slr1150,2,2,24,4,
+2683,slr1890,2,2,24,5,bacterioferritin
+2684,sll1796,2,2,24,6,cytochrome c553
+2685,slr1340,2,2,24,7,
+2686,sll1245,2,2,24,8,cytochrome CytM
+2687,slr1964,2,2,24,9,
+2688,slr1468,2,2,24,10,tymocyte protein cThy28kD
+2689,slr1470,2,2,24,11,
+2690,sll1382,2,2,24,12,ferredoxin
+2691,slr0011,2,2,24,13,unknown function
+2692,ssl0020,2,2,24,14,ferredoxin
+2693,sll0008,2,2,24,15,
+2694,sll0205,2,2,24,16,
+2695,slr0233,2,2,24,17,thioredoxin M
+2696,sll0410,2,2,24,18,
+2697,slr0033,2,2,24,19,
+2698,sll0498,2,2,24,20,
+2699,slr1419,2,2,24,21,hypothetical protein
+2700,sll1341,2,2,24,22,bacterioferritin
+2701,ssr2439,2,2,24,23,hypothetical protein
+2702,sll0624,2,2,24,24,
+2703,slr0456,2,2,25,1,
+2704,slr1182,2,2,25,2,
+2705,slr1186,2,2,25,3,
+2706,sll0567,2,2,25,4,ferric uptake regulation protein
+2707,slr0598,2,2,25,5,
+2708,slr0602,2,2,25,6,
+2709,sll0899,2,2,25,7,UDP-N-acetylglucosamine pyrophosphorylase
+2710,sll0895,2,2,25,8,ammonium transport protein
+2711,sll1552,2,2,25,9,
+2712,slr1652,2,2,25,10,
+2713,sll1550,2,2,25,11,
+2714,slr1656,2,2,25,12,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapep
+2715,slr1771,2,2,25,13,
+2716,sll0236,2,2,25,14,
+2717,sll1056,2,2,25,15,phosphoribosylformyl glycinamidine synthetase II
+2718,slr1223,2,2,25,16,cell division inhibitor
+2719,slr0329,2,2,25,17,xylose repressor
+2720,sll1766,2,2,25,18,putative arylsulfatase regulatory protein
+2721,sll0588,2,2,25,19,
+2722,sll0630,2,2,25,20,
+2723,slr1778,2,2,25,21,
+2724,sll1472,2,2,25,22,
+2725,slr0238,2,2,25,23,
+2726,sll1803,2,2,25,24,50S ribosomal protein L22
+2727,slr0600,2,2,26,1,
+2728,slr0603,2,2,26,2,DNA polymerase III alpha subunit
+2729,slr0605,2,2,26,3,hypothetical protein
+2730,slr0608,2,2,26,4,phosphoribosyl-ATP pyrophosphohydrolase:phosphorib
+2731,slr0610,2,2,26,5,
+2732,sll1156,2,2,26,6,
+2733,sll1821,2,2,26,7,50S ribosomal protein L13
+2734,sll1809,2,2,26,8,30S ribosomal protein S8
+2735,ssl3437,2,2,26,9,30S ribosomal protein S17
+2736,slr1894,2,2,26,10,hypothetical protein
+2737,slr2074,2,2,26,11,mannose-6-phosphate isomerase
+2738,ssl3712,2,2,26,12,
+2739,sll0237,2,2,26,13,
+2740,sll1601,2,2,26,14,hypothetical protein
+2741,sll1895,2,2,26,15,hypothetical protein
+2742,slr1270,2,2,26,16,
+2743,sll1452,2,2,26,17,nitrate transport protein NrtC
+2744,sll0861,2,2,26,18,hypothetical protein
+2745,sll1476,2,2,26,19,
+2746,slr0263,2,2,26,20,
+2747,slr1957,2,2,26,21,
+2748,ssl2749,2,2,26,22,
+2749,ssr2711,2,2,26,23,
+2750,ssr3451,2,2,26,24,cytochrome b559 a subunit
+2751,slr1906,2,2,27,1,
+2752,slr1908,2,2,27,2,
+2753,sll1580,2,2,27,3,phycocyanin associated linker protein
+2754,sll1575,2,2,27,4,serine/threonine protein kinase
+2755,slr1708,2,2,27,5,lysostaphin
+2756,sll1571,2,2,27,6,
+2757,ssl3692,2,2,27,7,
+2758,slr1986,2,2,27,8,allophycocyanin b chain
+2759,sll1880,2,2,27,9,hypothetical protein
+2760,sll1101,2,2,27,10,30S ribosomal protein S10
+2761,slr1645,2,2,27,11,photosystem II 11 kD protein
+2762,sll1853,2,2,27,12,
+2763,slr1344,2,2,27,13,hypothetical protein
+2764,slr1275,2,2,27,14,
+2765,sll2002,2,2,27,15,
+2766,sll1024,2,2,27,16,
+2767,sll1367,2,2,27,17,
+2768,slr1827,2,2,27,18,
+2769,sll0749,2,2,27,19,
+2770,sll0809,2,2,27,20,
+2771,sll1218,2,2,27,21,hypothetical protein
+2772,sll1885,2,2,27,22,
+2773,slr0051,2,2,27,23,carbonic anhydrase
+2774,slr0064,2,2,27,24,hypothetical protein
+2775,sll1971,2,2,28,1,
+2776,sll1969,2,2,28,2,
+2777,sll1967,2,2,28,3,hypothetical protein
+2778,slr2073,2,2,28,4,
+2779,slr2078,2,2,28,5,hypothetical protein
+2780,slr1834,2,2,28,6,P700 apoprotein subunit Ia
+2781,ssl1707,2,2,28,7,
+2782,sll0720,2,2,28,8,apxIC gene product  hemolysin activation protein
+2783,smr0004,2,2,28,9,photosystem I subunit VIII
+2784,sll1106,2,2,28,10,
+2785,sll0848,2,2,28,11,chromosomal replication initiator protein DnaA
+2786,slr0331,2,2,28,12,NADH dehydrogenase subunit 4
+2787,slr0120,2,2,28,13,hypothetical protein
+2788,sll1744,2,2,28,14,50S ribosomal protein L1
+2789,sll1708,2,2,28,15,nitrate/nitrite response regulator protein
+2790,slr0773,2,2,28,16,
+2791,sll0394,2,2,28,17,
+2792,slr1315,2,2,28,18,
+2793,slr1022,2,2,28,19,N-acetylornithine aminotransferase
+2794,slr1162,2,2,28,20,hypothetical protein
+2795,slr1974,2,2,28,21,hypothetical protein
+2796,slr2087,2,2,28,22,hypothetical protein
+2797,sll0698,2,2,28,23,drug sensory protein A
+2798,slr1595,2,2,28,24,Na/H antiporter
+2799,sll1780,2,2,29,1,transposase
+2800,slr2132,2,2,29,2,phosphotransacetylase
+2801,sll2014,2,2,29,3,sugar fermentation stimulation protein
+2802,sll2011,2,2,29,4,hypothetical protein
+2803,sll2009,2,2,29,5,processing protease
+2804,slr2135,2,2,29,6,hydrogenase accessory protein
+2805,sll0057,2,2,29,19,heat shock protein GrpE
+2806,slr0415,2,2,29,20,Na(+)/H(+) antiporter
+2807,slr0083,2,2,29,21,ATP-dependent RNA helicase DeaD
+2808,sll0790,2,2,29,22,sensory transduction histidine kinase
+2809,slr0746,2,2,29,23,salt tolerance protein A
+2810,ssr1480,2,2,29,24,RNA-binding protein
+2811,sll1687,2,2,30,1,sensory transduction histidine kinase
+2812,slr1822,2,2,30,2,endonuclease III
+2813,sll0849,2,2,30,3,photosystem II D2 protein
+2814,sll1956,2,2,30,4,hypothetical protein
+2815,sll1951,2,2,30,5,hemolysin
+2816,sll1949,2,2,30,6,
+2817,slr0469,2,2,30,19,30S ribosomal protein S4
+2818,ssr2972,2,2,30,20,
+2819,smr0005,2,2,30,21,photosystem I PsaM subunit
+2820,ssl2250,2,2,30,22,glycoprotein 64
+2821,ssr0536,2,2,30,23,
+2822,sll1028,2,2,30,24,carbon dioxide concentrating mechanism protein Ccm
+2823,slr1697,2,2,31,1,eukariotic protein kinase
+2824,sll1525,2,2,31,2,phosphoribulokinase
+2825,sll1524,2,2,31,3,hypothetical protein
+2826,slr1646,2,2,31,4,ribonuclease III
+2827,slr1648,2,2,31,5,
+2828,sll1521,2,2,31,6,hypothetical protein
+2829,slr0262,2,2,31,19,
+2830,sll1225,2,2,31,20,
+2831,sll1537,2,2,31,21,
+2832,sll0301,2,2,31,22,
+2833,sll0101,2,2,31,23,
+2834,slr1577,2,2,31,24,
+2835,slr1946,2,2,32,1,
+2836,slr1949,2,2,32,2,
+2837,slr0989,2,2,32,3,hypothetical protein
+2838,slr0784,2,2,32,4,hypothetical protein
+2839,slr0426,2,2,32,5,GTP cyclohydrolase I
+2840,sll0888,2,2,32,6,
+2841,ssl3436,2,2,32,19,50S ribosomal protein L29
+2842,slr1859,2,2,32,20,
+2843,slr1678,2,2,32,21,50S ribosomal protein L21
+2844,sll1745,2,2,32,22,50S ribosomal protein L10
+2845,smr0006,2,2,32,23,cytochrome b559 b subunit
